@@ -1,0 +1,24 @@
+﻿// gives correct names for the Launcher languages
+
+launcher_combo_english = English
+launcher_combo_german = Deutsch
+launcher_combo_french = Français
+launcher_combo_spanish = Español
+launcher_combo_italian = Italiano
+launcher_combo_russian = Русский
+launcher_combo_finnish = Suomi
+
+//launcher_combo_polish = Polish
+//launcher_combo_czech = Czech
+//launcher_combo_hungarian = Hungarian
+//launcher_combo_dutch = Dutch
+//launcher_combo_slovak = Slovak
+//launcher_combo_swedish = Svenska
+//launcher_combo_danish = Danish
+//launcher_combo_norwegian = Norwegian
+//launcher_combo_chinese = Chinese
+//launcher_combo_japanese = Japanese
+
+
+
+

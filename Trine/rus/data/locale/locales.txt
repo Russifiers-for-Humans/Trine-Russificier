@@ -1,0 +1,104 @@
+﻿
+// max 16 IDs
+// all IDs should be 2 letters long, in lowercase
+
+//
+// TRINE LANGUAGES 2009-04-15
+//
+Ids
+{
+  0 = en
+  1 = de
+  2 = fr
+  3 = es
+  4 = it
+  5 = fi
+  6 = tr
+  7 = pt
+  8 = ro
+  9 = ru
+}
+
+EnglishNames
+{
+  en = English
+  de = German
+  fr = French
+  es = Spanish
+  it = Italian
+  fi = Finnish
+  tr = Turkish
+  pt = Portuguese (European)
+  ro = Romanian
+  ru = Russian
+}
+
+NativeNames
+{
+  en = English
+  de = Deutsch
+  fr = Français
+  es = Español
+  it = Italiano
+  fi = Suomi
+  tr = Türkçe
+  pt = Português
+  ro = Română
+  ru = Русский
+}
+
+
+//
+// OLD LANGUAGES
+//
+
+//Ids
+//{
+//  0 = en
+//  1 = de
+//  2 = fr
+//  3 = fi
+//  4 = se
+//  5 = no
+//  6 = dk
+//  7 = pl
+//  8 = it
+//  9 = sp
+//  10 = es
+//}
+
+//EnglishNames
+//{
+//  en = English
+//  de = German
+//  fr = French
+//  fi = Finnish
+//  ru = Russian
+//  es = Spanish
+//  it = Italian
+//  hu = Hungarian
+//  pl = Polish
+//  cz = Czech
+//  dk = Danish
+//  no = Norwegian
+//  se = Swedish
+//  cn = Chinese
+//}
+
+//NativeNames
+//{
+//  en = English
+//  de = Deutsch
+//  fr = Français
+//  fi = Suomi
+//  ru = Russian
+//  es = Español
+//  it = Italiano
+//  hu = Magyar
+//  pl = Polski
+//  cz = Czech
+//  dk = Danish
+//  no = Norsk
+//  se = Svenska
+//  cn = Chinese
+//}

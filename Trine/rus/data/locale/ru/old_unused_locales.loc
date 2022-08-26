@@ -1,0 +1,319 @@
+
+// gui_mission_briefing.loc
+// - we will use narrator instead
+
+
+bossarea_header_text = 
+bossarea_brief = 
+
+castle1_header_text = 
+castle1_brief = 
+
+castle2_header_text = 
+castle2_brief = 
+
+castle3_header_text = 
+castle3_brief = 
+
+castle4_header_text = 
+castle4_brief = 
+
+castle5_header_text = 
+castle5_brief = 
+
+castle6_header_text = 
+castle6_brief = 
+
+cemetery1_header_text = 
+cemetery1_brief = 
+
+courtyard1_header_text = 
+courtyard1_brief = 
+
+crypt1_header_text = 
+crypt1_brief = 
+
+darkcrypt1_header_text = 
+darkcrypt1_brief = 
+
+darkforest1_header_text = 
+darkforest1_brief = 
+
+forest1_header_text = 
+forest1_brief = 
+
+forest2_header_text = 
+forest2_brief = 
+
+m1_header_text = 
+m1_brief = 
+
+mines1_header_text = 
+mines1_brief = 
+
+mountains1_header_text = 
+mountains1_brief = 
+
+tutorial1_header_text = 
+tutorial1_brief = 
+
+village1_header_text = 
+village1_brief = 
+
+
+// gui_savegame_desc.loc
+
+
+//game_saved = Checkpoint
+
+savegame_desc_tutorial1 = Tutorial
+savegame_desc_tutorial1_checkpoint1 = Checkpoint 1
+savegame_desc_tutorial1_checkpoint2 = Checkpoint 2
+savegame_desc_tutorial1_checkpoint3 = Checkpoint 3
+savegame_desc_tutorial1_checkpoint4 = Checkpoint 4
+savegame_desc_tutorial1_checkpoint5 = Checkpoint 5
+savegame_desc_tutorial1_checkpoint6 = Checkpoint 6
+savegame_desc_tutorial1_checkpoint7 = Checkpoint 7
+savegame_desc_tutorial1_checkpoint8 = Checkpoint 8
+savegame_desc_tutorial1_checkpoint9 = Checkpoint 9
+
+savegame_desc_castle1 = Castle, Hallways
+savegame_desc_castle1_checkpoint1 = Checkpoint 1
+savegame_desc_castle1_checkpoint2 = Checkpoint 2
+savegame_desc_castle1_checkpoint3 = Checkpoint 3
+savegame_desc_castle1_checkpoint4 = Checkpoint 4
+savegame_desc_castle1_checkpoint5 = Checkpoint 5
+savegame_desc_castle1_checkpoint6 = Checkpoint 6
+savegame_desc_castle1_checkpoint7 = Checkpoint 7
+savegame_desc_castle1_checkpoint8 = Checkpoint 8
+savegame_desc_castle1_checkpoint9 = Checkpoint 9
+
+savegame_desc_courtyard1 = Courtyard
+savegame_desc_courtyard1_checkpoint1 = Checkpoint 1
+savegame_desc_courtyard1_checkpoint2 = Checkpoint 2
+savegame_desc_courtyard1_checkpoint3 = Checkpoint 3
+savegame_desc_courtyard1_checkpoint4 = Checkpoint 4
+savegame_desc_courtyard1_checkpoint5 = Checkpoint 5
+savegame_desc_courtyard1_checkpoint6 = Checkpoint 6
+savegame_desc_courtyard1_checkpoint7 = Checkpoint 7
+savegame_desc_courtyard1_checkpoint8 = Checkpoint 8
+savegame_desc_courtyard1_checkpoint9 = Checkpoint 9
+
+savegame_desc_cemetery1 = Dragon Graveyard
+savegame_desc_cemetery1_checkpoint1 = Checkpoint 1
+savegame_desc_cemetery1_checkpoint2 = Checkpoint 2
+savegame_desc_cemetery1_checkpoint3 = Checkpoint 3
+savegame_desc_cemetery1_checkpoint4 = Checkpoint 4
+savegame_desc_cemetery1_checkpoint5 = Checkpoint 5
+savegame_desc_cemetery1_checkpoint6 = Checkpoint 6
+savegame_desc_cemetery1_checkpoint7 = Checkpoint 7
+savegame_desc_cemetery1_checkpoint8 = Checkpoint 8
+savegame_desc_cemetery1_checkpoint9 = Checkpoint 9
+
+savegame_desc_crypt1 = Caverns
+savegame_desc_crypt1_checkpoint1 = Checkpoint 1
+savegame_desc_crypt1_checkpoint2 = Checkpoint 2
+savegame_desc_crypt1_checkpoint3 = Checkpoint 3
+savegame_desc_crypt1_checkpoint4 = Checkpoint 4
+savegame_desc_crypt1_checkpoint5 = Checkpoint 5
+savegame_desc_crypt1_checkpoint6 = Checkpoint 6
+savegame_desc_crypt1_checkpoint7 = Checkpoint 7
+savegame_desc_crypt1_checkpoint8 = Checkpoint 8
+savegame_desc_crypt1_checkpoint9 = Checkpoint 9
+
+savegame_desc_darkcrypt1 = Dark caverns
+savegame_desc_darkcrypt1_checkpoint1 = Checkpoint 1
+savegame_desc_darkcrypt1_checkpoint2 = Checkpoint 2
+savegame_desc_darkcrypt1_checkpoint3 = Checkpoint 3
+savegame_desc_darkcrypt1_checkpoint4 = Checkpoint 4
+savegame_desc_darkcrypt1_checkpoint5 = Checkpoint 5
+savegame_desc_darkcrypt1_checkpoint6 = Checkpoint 6
+savegame_desc_darkcrypt1_checkpoint7 = Checkpoint 7
+savegame_desc_darkcrypt1_checkpoint8 = Checkpoint 8
+savegame_desc_darkcrypt1_checkpoint9 = Checkpoint 9
+
+savegame_desc_castle2 = Castle, Dungeons
+savegame_desc_castle2_checkpoint1 = Checkpoint 1
+savegame_desc_castle2_checkpoint2 = Checkpoint 2
+savegame_desc_castle2_checkpoint3 = Checkpoint 3
+savegame_desc_castle2_checkpoint4 = Checkpoint 4
+savegame_desc_castle2_checkpoint5 = Checkpoint 5
+savegame_desc_castle2_checkpoint6 = Checkpoint 6
+savegame_desc_castle2_checkpoint7 = Checkpoint 7
+savegame_desc_castle2_checkpoint8 = Checkpoint 8
+savegame_desc_castle2_checkpoint9 = Checkpoint 9
+
+savegame_desc_castle3 = Castle, Hallways part 2
+savegame_desc_castle3_checkpoint1 = Checkpoint 1
+savegame_desc_castle3_checkpoint2 = Checkpoint 2
+savegame_desc_castle3_checkpoint3 = Checkpoint 3
+savegame_desc_castle3_checkpoint4 = Checkpoint 4
+savegame_desc_castle3_checkpoint5 = Checkpoint 5
+savegame_desc_castle3_checkpoint6 = Checkpoint 6
+savegame_desc_castle3_checkpoint7 = Checkpoint 7
+savegame_desc_castle3_checkpoint8 = Checkpoint 8
+savegame_desc_castle3_checkpoint9 = Checkpoint 9
+
+savegame_desc_forest1 = Forest
+savegame_desc_forest1_checkpoint1 = Checkpoint 1
+savegame_desc_forest1_checkpoint2 = Checkpoint 2
+savegame_desc_forest1_checkpoint3 = Checkpoint 3
+savegame_desc_forest1_checkpoint4 = Checkpoint 4
+savegame_desc_forest1_checkpoint5 = Checkpoint 5
+savegame_desc_forest1_checkpoint6 = Checkpoint 6
+savegame_desc_forest1_checkpoint7 = Checkpoint 7
+savegame_desc_forest1_checkpoint8 = Checkpoint 8
+savegame_desc_forest1_checkpoint9 = Checkpoint 9
+
+savegame_desc_darkforest1 = Dark forest
+savegame_desc_darkforest1_checkpoint1 = Checkpoint 1
+savegame_desc_darkforest1_checkpoint2 = Checkpoint 2
+savegame_desc_darkforest1_checkpoint3 = Checkpoint 3
+savegame_desc_darkforest1_checkpoint4 = Checkpoint 4
+savegame_desc_darkforest1_checkpoint5 = Checkpoint 5
+savegame_desc_darkforest1_checkpoint6 = Checkpoint 6
+savegame_desc_darkforest1_checkpoint7 = Checkpoint 7
+savegame_desc_darkforest1_checkpoint8 = Checkpoint 8
+savegame_desc_darkforest1_checkpoint9 = Checkpoint 9
+
+savegame_desc_forest2 = Forest part 2
+savegame_desc_forest2_checkpoint1 = Checkpoint 1
+savegame_desc_forest2_checkpoint2 = Checkpoint 2
+savegame_desc_forest2_checkpoint3 = Checkpoint 3
+savegame_desc_forest2_checkpoint4 = Checkpoint 4
+savegame_desc_forest2_checkpoint5 = Checkpoint 5
+savegame_desc_forest2_checkpoint6 = Checkpoint 6
+savegame_desc_forest2_checkpoint7 = Checkpoint 7
+savegame_desc_forest2_checkpoint8 = Checkpoint 8
+savegame_desc_forest2_checkpoint9 = Checkpoint 9
+
+savegame_desc_mountains1 = Mountain caverns
+savegame_desc_mountains1_checkpoint1 = Checkpoint 1
+savegame_desc_mountains1_checkpoint2 = Checkpoint 2
+savegame_desc_mountains1_checkpoint3 = Checkpoint 3
+savegame_desc_mountains1_checkpoint4 = Checkpoint 4
+savegame_desc_mountains1_checkpoint5 = Checkpoint 5
+savegame_desc_mountains1_checkpoint6 = Checkpoint 6
+savegame_desc_mountains1_checkpoint7 = Checkpoint 7
+savegame_desc_mountains1_checkpoint8 = Checkpoint 8
+savegame_desc_mountains1_checkpoint9 = Checkpoint 9
+
+savegame_desc_mines1 = Mines
+savegame_desc_mines1_checkpoint1 = Checkpoint 1
+savegame_desc_mines1_checkpoint2 = Checkpoint 2
+savegame_desc_mines1_checkpoint3 = Checkpoint 3
+savegame_desc_mines1_checkpoint4 = Checkpoint 4
+savegame_desc_mines1_checkpoint5 = Checkpoint 5
+savegame_desc_mines1_checkpoint6 = Checkpoint 6
+savegame_desc_mines1_checkpoint7 = Checkpoint 7
+savegame_desc_mines1_checkpoint8 = Checkpoint 8
+savegame_desc_mines1_checkpoint9 = Checkpoint 9
+
+savegame_desc_village1 = Village
+savegame_desc_village1_checkpoint1 = Checkpoint 1
+savegame_desc_village1_checkpoint2 = Checkpoint 2
+savegame_desc_village1_checkpoint3 = Checkpoint 3
+savegame_desc_village1_checkpoint4 = Checkpoint 4
+savegame_desc_village1_checkpoint5 = Checkpoint 5
+savegame_desc_village1_checkpoint6 = Checkpoint 6
+savegame_desc_village1_checkpoint7 = Checkpoint 7
+savegame_desc_village1_checkpoint8 = Checkpoint 8
+savegame_desc_village1_checkpoint9 = Checkpoint 9
+
+savegame_desc_castle4 = Castle, Library
+savegame_desc_castle4_checkpoint1 = Checkpoint 1
+savegame_desc_castle4_checkpoint2 = Checkpoint 2
+savegame_desc_castle4_checkpoint3 = Checkpoint 3
+savegame_desc_castle4_checkpoint4 = Checkpoint 4
+savegame_desc_castle4_checkpoint5 = Checkpoint 5
+savegame_desc_castle4_checkpoint6 = Checkpoint 6
+savegame_desc_castle4_checkpoint7 = Checkpoint 7
+savegame_desc_castle4_checkpoint8 = Checkpoint 8
+savegame_desc_castle4_checkpoint9 = Checkpoint 9
+
+savegame_desc_castle5 = Castle, Living quarters
+savegame_desc_castle5_checkpoint1 = Checkpoint 1
+savegame_desc_castle5_checkpoint2 = Checkpoint 2
+savegame_desc_castle5_checkpoint3 = Checkpoint 3
+savegame_desc_castle5_checkpoint4 = Checkpoint 4
+savegame_desc_castle5_checkpoint5 = Checkpoint 5
+savegame_desc_castle5_checkpoint6 = Checkpoint 6
+savegame_desc_castle5_checkpoint7 = Checkpoint 7
+savegame_desc_castle5_checkpoint8 = Checkpoint 8
+savegame_desc_castle5_checkpoint9 = Checkpoint 9
+
+savegame_desc_castle6 = Castle, ???
+savegame_desc_castle6_checkpoint1 = Checkpoint 1
+savegame_desc_castle6_checkpoint2 = Checkpoint 2
+savegame_desc_castle6_checkpoint3 = Checkpoint 3
+savegame_desc_castle6_checkpoint4 = Checkpoint 4
+savegame_desc_castle6_checkpoint5 = Checkpoint 5
+savegame_desc_castle6_checkpoint6 = Checkpoint 6
+savegame_desc_castle6_checkpoint7 = Checkpoint 7
+savegame_desc_castle6_checkpoint8 = Checkpoint 8
+savegame_desc_castle6_checkpoint9 = Checkpoint 9
+
+savegame_desc_bossarea = Wizard's workshop
+savegame_desc_bossarea_checkpoint1 = Checkpoint 1
+savegame_desc_bossarea_checkpoint2 = Checkpoint 2
+savegame_desc_bossarea_checkpoint3 = Checkpoint 3
+savegame_desc_bossarea_checkpoint4 = Checkpoint 4
+savegame_desc_bossarea_checkpoint5 = Checkpoint 5
+savegame_desc_bossarea_checkpoint6 = Checkpoint 6
+savegame_desc_bossarea_checkpoint7 = Checkpoint 7
+savegame_desc_bossarea_checkpoint8 = Checkpoint 8
+savegame_desc_bossarea_checkpoint9 = Checkpoint 9
+
+
+
+
+// subtitles_characters.loc
+// character names
+
+// player characters
+pl_anna = Anna
+pl_vain = Waenamo
+pl_olaf = Olaf
+pl_rese = Reserve
+
+// NPC characters
+evildoll = Doll
+gooddoll = Doll
+coward = Scared man
+helpguy = Knight
+pornguy = Jack
+princess = Princess
+hooded = Hooded man
+finalboss = Wizard
+dyingman = Village man
+fairy = Forest spirit
+
+
+// gui_progressbar.loc
+
+gui_progressbar_label_default_text = Progress...
+gui_progressbar_donelabel_default_text = Done
+gui_progressbar_interruptedlabel_default_text = Interrupted
+
+// gui_unit_combat.loc (hehe)
+gui_unit_combat_firing = Firing
+gui_unit_combat_firing_blind = Firing blind
+gui_unit_combat_firing_energy_low = Firing, energy low
+gui_unit_combat_targeting = Targeting
+gui_unit_combat_targeting_blind = Targeting blind
+gui_unit_combat_targeting_energy_low = Targeting, energy low
+gui_unit_combat_stealthing = Stealthing
+gui_unit_combat_stealthing_energy_low = Stealthing, energy low
+gui_unit_combat_sneaking = Sneaking
+gui_unit_combat_prone = Prone
+gui_unit_combat_crawling = Crawling
+gui_unit_combat_running = Running
+gui_unit_combat_running_silent = Running silent
+gui_unit_combat_moving = Moving
+gui_unit_combat_moving_silent = Moving silent
+
+gui_unit_combat_losing_conciousness = Losing conciousness
+gui_unit_combat_taking_damage = Taking damage
+gui_unit_combat_bad_condition = In bad condition
+gui_unit_combat_energy_low = Energy low
+

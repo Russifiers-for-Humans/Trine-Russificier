@@ -1,0 +1,65 @@
+﻿// Updates after LocKit update1
+// if locales are added after the first Localization Kit delivery and the first update, add them here.
+
+gui_general_back = Назад
+gui_general_next = Вперед
+
+tip_item_lever_pad = Повернуть рычаг
+tutorial_rotate_object = Вы можете вращать левитируемый объект левым мини-джойстиком или наклоном геймпада.
+
+gui_changesaveslotmenu_info_saved = Сохранено
+gui_changesaveslotmenu_info_level = Уровень
+gui_changesaveslotmenu_game_completed = Игра пройдена
+
+coop_join_not_allowed_dead_chars = Другие игроки могут присоединиться к игре, после того как один или несколько персонажей будут оживлены на контрольной точке.
+
+// Inventory stuff changed (change character removed)
+gui_inv_tips_3_text = $(gui_inv_tips_5_text)
+
+gui_inv_tips_select_text = $(gui_inv_tips_0_text)
+gui_inv_tips_info_text = $(gui_inv_tips_1_text)
+gui_inv_tips_switch_character_text = $(gui_inv_tips_2_text)
+gui_inv_tips_switch_character_2_text = $(gui_inv_tips_3_text)
+gui_inv_tips_close_text = $(gui_inv_tips_4_text)
+gui_inv_tips_close_2_text = $(gui_inv_tips_5_text)
+
+gui_loadgamemenu_navi_confirm_text = $(gui_general_confirm)
+gui_loadgamemenu_navi_back_text = $(gui_back)
+gui_loadgamemenu_navi_difficulty_text = $(gui_optionsmenu_change_difficulty)
+gui_loadgamemenu_navi_saveslot_text = $(gui_optionsmenu_change_save_slot)
+
+gui_loadingwindow_start_text = $(gui_newgame_startgame_text)
+
+gui_gcimenu_navi_continue_text = $(gui_mm_continue)
+
+gui_menu_common_navi_select_text = $(gui_pm_select)
+gui_menu_common_navi_confirm_text = $(gui_general_confirm)
+gui_menu_common_navi_change_text = Изменить
+gui_menu_common_navi_toggle_text = Переключить
+gui_menu_common_navi_back_text = $(gui_back)
+
+gui_inv_coop_join_attempted
+{
+_
+Другие игроки могут присоединиться к игре после закрытия рюкзака.
+}
+
+gui_inv_char_info_name_0 = Амадей Блистательный
+gui_inv_char_info_name_1 = Зоя Шустрая
+gui_inv_char_info_name_2 = Понтий Храбрый
+
+gui_inv_char_info_level = Уровень
+gui_inv_char_info_health = Здоровье:
+gui_inv_char_info_energy = Энергия:
+
+// note to joel: take these from gui_energy_textbox_text
+
+gui_inv_char_info_experience = Опыт:
+
+change_locale1 = Нельзя левитировать
+change_locale2 = Смена оружия
+change_locale3 = Подобран новый предмет. Используйте рюкзак, чтобы передать его другому персонажу.
+change_locale4 = Нет другого оружия
+change_locale5 = Это меню рюкзака, где вы можете улучшить способности персонажа, если у вас достаточно очков навыков. Когда вы находите новые предметы, они улучшают ваши способности еще больше. Вы можете передавать предметы между персонажами, выбирая их и перенося их в окна других персонажей.
+
+

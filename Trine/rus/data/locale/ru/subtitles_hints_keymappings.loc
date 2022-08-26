@@ -1,0 +1,91 @@
+﻿
+
+// PS3 hint messages (copy)
+
+tutorial1_move_ps3 = $(tutorial1_move)
+tutorial1_arrows_ps3 = $(tutorial1_arrows)
+tutorial1_shield_ps3 = $(tutorial1_shield)
+tutorial1_create_box_ps3 = $(tutorial1_create_box)
+tutorial1_sword_ps3 = $(tutorial1_sword)
+tutorial1_levitate_ps3 = $(tutorial1_levitate)
+tutorial1_levitate2_ps3 = $(tutorial1_levitate2)
+tutorial1_chest_ps3 = $(tutorial1_chest)
+
+castle1_hint_bow_ps3 = $(castle1_hint_bow)
+cemetery1_hint_plank_ps3 = $(cemetery1_hint_plank)
+mines1_hint_floating_platform_ps3 = $(mines1_hint_floating_platform)
+knight_item_pickup_ps3 = $(knight_item_pickup)
+knight_item_throw_ps3 = $(knight_item_throw)
+knight_charge_ps3 = $(knight_charge)
+knight_secondary_attack_ps3 = $(knight_secondary_attack)
+gui_change_weapon_ps3 = $(gui_change_weapon)
+
+hint_rotate_objects_ps3 = $(hint_rotate_objects)
+tutorial_inventory_ps3 = $(tutorial_inventory)
+
+castle1_change_character_ps3 = $(castle1_change_character)
+castle1_inventory_ps3 = $(castle1_inventory)
+
+tip_item_lever_pad_ps3 = $(tip_item_lever_pad)
+
+// WIN hintmessages (copy + keymapping)
+
+tutorial1_move_win = $(tutorial1_move) $(tutorial1_move_win_keybind)
+tutorial1_arrows_win = $(tutorial1_arrows) $(tutorial1_arrows_win_keybind)
+tutorial1_shield_win = $(tutorial1_shield) $(tutorial1_shield_win_keybind)
+tutorial1_create_box_win = $(tutorial1_create_box) $(tutorial1_create_box_win_keybind)
+tutorial1_sword_win = $(tutorial1_sword) $(tutorial1_sword_win_keybind)
+tutorial1_levitate_win = $(tutorial1_levitate) $(tutorial1_levitate_win_keybind)
+tutorial1_levitate2_win = $(tutorial1_levitate2) $(tutorial1_levitate2_win_keybind)
+tutorial1_chest_win = $(tutorial1_chest) $(tutorial1_chest_win_keybind)
+
+castle1_hint_bow_win = $(castle1_hint_bow) $(castle1_hint_bow_win_keybind)
+cemetery1_hint_plank_win = $(cemetery1_hint_plank) $(cemetery1_hint_plank_win_keybind)
+mines1_hint_floating_platform_win = $(mines1_hint_floating_platform) $(mines1_hint_floating_platform_win_keybind)
+knight_item_pickup_win = $(knight_item_pickup) $(knight_item_pickup_win_keybind)
+knight_item_throw_win = $(knight_item_throw) $(knight_item_throw_win_keybind)
+knight_charge_win = $(knight_charge) $(knight_charge_win_keybind)
+knight_secondary_attack_win = $(knight_secondary_attack) $(knight_secondary_attack_win_keybind)
+gui_change_weapon_win = $(gui_change_weapon) $(gui_change_weapon_win_keybind)
+
+hint_rotate_objects_win = $(hint_rotate_objects) $(hint_rotate_objects_win_keybind)
+tutorial_inventory_win = $(tutorial_inventory) $(tutorial_inventory_win_keybind)
+
+castle1_change_character_win = $(castle1_change_character) $(castle1_change_character_win_keybind)
+castle1_inventory_win = $(castle1_inventory) $(castle1_inventory_win_keybind)
+
+tip_item_lever_pad_win = $(tip_item_lever_pad) $(tutorial1_chest_win_keybind)
+
+// keys for Windows
+tutorial1_move_win_keybind = <br>(W,A,S,D)
+tutorial1_arrows_win_keybind = <br>(Правая кнопка мыши)
+tutorial1_shield_win_keybind = <br>(Правая кнопка мыши)
+tutorial1_create_box_win_keybind = <br>(Левая кнопка мыши)
+tutorial1_sword_win_keybind = <br>(Левая кнопка мыши)
+tutorial1_levitate_win_keybind = <br>(Мышь)
+tutorial1_levitate2_win_keybind = <br>(Правая кнопка мыши)
+tutorial1_chest_win_keybind = <br>(E)
+
+castle1_hint_bow_win_keybind = <br>(Левая кнопка мыши)
+cemetery1_hint_plank_win_keybind = <br>(Левая кнопка мыши)
+mines1_hint_floating_platform_win_keybind = <br>(Левая кнопка мыши)
+knight_item_pickup_win_keybind = <br>(Правая кнопка мыши)
+knight_item_throw_win_keybind = <br>(Правая кнопка мыши)
+knight_charge_win_keybind = <br>(Shift)
+knight_secondary_attack_win_keybind = <br>(Удерживайте левую кнопку мыши)
+gui_change_weapon_win_keybind = <br>(Колесо мыши)
+
+hint_rotate_objects_win_keybind = <br>(A,D)
+tutorial_inventory_win_keybind = (I)
+
+castle1_change_character_win_keybind = <br>(1,2,3)
+castle1_inventory_win_keybind = <br>(I)
+
+
+
+
+
+
+
+
+

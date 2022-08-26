@@ -1,0 +1,47 @@
+﻿
+
+
+// key control names
+// Common
+
+key_camera_move_forward = Вверх
+key_camera_move_backward = Вниз
+key_camera_move_left = Влево
+key_camera_move_right = Вправо
+key_execute = Использовать
+key_run_script_12 = Выбрать волшебника
+key_run_script_13 = Выбрать воровку
+key_run_script_14 = Выбрать рыцаря
+key_run_script_20 = Следующий персонаж
+key_run_script_21 = Предыдущий персонаж
+key_jump = Прыжок
+key_change_next_weapon = Следующие оружие
+key_change_prev_weapon = Предыдущее оружие
+
+// Menus
+key_open_pause_menu = Открыть меню
+key_open_upgrade = Открыть рюкзак
+key_quit = Выйти из меню
+key_menu_select = Выбрать
+key_menu_special_1 = Настройки 1
+key_menu_special_2 = Настройки 2
+
+// Wizard
+key_wizard_break_object = Уничтожить предмет
+key_wizard_draw_levitate_1 = Создать предмет
+key_wizard_draw_levitate_2 = Левитировать
+
+// Thief
+key_thief_attack_current_weapon = Выстрел
+key_thief_use_rope = Крюк
+key_thief_select_normal_arrow = Обычная стрела
+key_thief_select_fire_arrow = Огненная стрела
+
+// Warrior
+key_warrior_attack_current_weapon = Удар
+key_warrior_attack_sword = Меч
+key_warrior_attack_hammer = Молот
+key_warrior_charge = В атаку!
+key_warrior_shield_throw = Бросить
+key_warrior_object_pickup = Поднять/бросить
+

@@ -1,0 +1,187 @@
+﻿
+
+
+launcher_window_caption = Trine
+
+launcher_launch = Запустить
+launcher_cancel = Отмена
+launcher_quit = Выход
+
+// NEW TYPE LAUNCHER ADDS 
+launcher_advanced = Дополнительно
+launcher_advanced_options = Расширенные настройки
+launcher_gamesettings = Настройки игры
+launcher_graphics_quality = Уровень качества графики
+launcher_graphics_level = Уровень графики
+launcher_launch_tab = Запустить
+launcher_graphics = Графика
+launcher_sounds = Звуки
+launcher_physics = Физика
+launcher_misc = Прочее
+launcher_mods_level_editor = Моды и редактор уровней
+launcher_updates_news = Обновления и новости
+
+// LAUNCHER LAUNCH DIALOG 
+launcher_launch_button = Запустить
+launcher_quick_settings = Быстрые настройки
+launcher_language = Язык
+launcher_overall_settings = Настройки в общем
+launcher_resolution = Разрешение
+
+// COMBO SETTINGS 
+launcher_combo_very_high = Очень высокий
+launcher_combo_high = Высокий
+launcher_combo_medium = Нормальный
+launcher_combo_low = Низкий
+launcher_combo_very_low = Очень низкий
+launcher_combo_custom = Пользовательский
+
+// ADVANCED 
+launcher_ok = ОК
+launcher_cancel = Отмена
+launcher_advanced = Дополнительно
+launcher_update = Проверить обновления
+launcher_language = Язык
+launcher_graphics_level = Уровень графики
+launcher_gfx_detail_level = Уровень детализации
+launcher_resolution = Разрешение экрана
+
+// LAUNCHER SOUNDS DIALOG 
+launcher_sounds = Звуки
+launcher_sounds_enabled = Звуки включены
+launcher_hardware3d = Аппаратное 3D
+launcher_eax = Использовать EAX
+launcher_speaker_type = Аудиосистема
+launcher_mixing_rate = Качество микширования
+
+// SOUND OUTPUT 
+launcher_combo_headphones = Наушники
+launcher_combo_mono_speakers = Моно-колонки
+launcher_combo_stereo_speakers = Стерео-колонки
+launcher_combo_quad_speakers = Четыре колонки
+launcher_combo_Surround_speakers = Surround-колонки
+launcher_combo_dolby_digital_5.1 = Многоканальная (5.1+)
+launcher_combo_44100hz = 44100 Гц
+launcher_combo_22050hz = 22050 Гц
+
+// LAUNCHER MISC 
+launcher_enable_menu_video = Включить видео в меню
+launcher_vertical_sync = Верт. синхронизация
+launcher_fullscreen = Полноэкранный режим
+
+// LAUNCHER GRAPHICS DIALOG 
+launcher_graphics_details = Уровень детализации графики
+launcher_fake_shadows_texture_quality = Уровень качества текстур теней на полу
+launcher_lighting_level = Уровень освещения
+launcher_lighting_texture_quality = Уровень качества текстур освещения
+launcher_particle_effects_level = Уровень погодных эффектов
+launcher_shadows_level = Уровень теней
+launcher_shadows_texture_quality = Уровень качества текстур теней
+launcher_texture_detail_level = Уровень детализации текстур
+launcher_anisotrophic_filtering = Анизотропная фильтрация
+launcher_antialiasing = Сглаживание
+launcher_weather_effects = Погодные эффекты
+launcher_high_quality_lightmap = Высококачественная карта освещения
+launcher_extra_gamme_effects = Дополнительные гамма-эффекты
+launcher_render_glow = Рендеринг освещения
+launcher_distortion_effects = Эффекты искажения
+launcher_disapearing_corpses = Исчезающие тела врагов
+//launcher_disappearing_corpses = Исчезающие тела врагов
+launcher_high_quality_video = Высококачественное видео
+launcher_reset_renderer_after_load = Сбросить рендеринг после загрузки
+launcher_misc_graphics = Прочее
+
+// ANI & AA 
+launcher_combo_disabled = Отключено
+launcher_combo_ani_2 = 2
+launcher_combo_ani_4 = 4
+launcher_combo_ani_8 = 8
+launcher_combo_aa_2x_samples = 2х
+launcher_combo_aa_4x_samples = 4х
+
+// LAUNCHER PHYSICS DIALOG 
+launcher_physics_level = Уровень симуляции физики
+launcher_use_ageia = Использовать аппаратный AGEIA PhysX PPU
+launcher_combo_physics_very_high = Очень высокий (рекомендуется двухядерный процессор)
+launcher_combo_physics_high = Высокий (рекомендуется двухядерный процессор)
+launcher_combo_physics_medium = Нормальный
+launcher_combo_physics_low = Низкий
+launcher_combo_physics_very_low = Очень низкий
+launcher_combo_physics_alternative = Очень низкий, альтернативный движок (только для одиночной игры, если остальное не работает)
+launcher_combo_physics_custom = Пользовательский
+launcher_physics_use_hardware = Использовать аппаратную поддержку PhysX, если доступна
+
+// MISC 
+launcher_custom_resolution = Пользовательское разрешение
+launcher_multiple_mice = Несколько мышей и клавиатур
+launcher_extended_mods = Использовать расширенный выбор модов при запуске
+
+// COMPATIBILITY  
+launcher_use_legacy_renderer = Использовать традиционный рендеринг
+launcher_compatibility_mode = Альтернативный графический рендеринг 
+launcher_legacy_renderer_help = Если игра не запускается или выглядит некорректно, попробуйте использовать альтернативный рендеринг.
+
+// COMBO BOXES 
+launcher_combo_1600x1200x32bit = 1600 х 1200
+launcher_combo_1280x1024x32bit = 1280 х 1024
+launcher_combo_1280x960x32bit = 1280 х 960
+launcher_combo_1024x768x32bit = 1024 х 768
+launcher_combo_800x600x32bit = 800 х 600
+launcher_combo_1280x960x32bit_halved = 640 х 480 (интерфейс х2)
+launcher_combo_640x480x32bit = 640 х 480
+launcher_combo_wide1920x1200x32bit = Широкоэкранный 16:10   1920 х 1200
+launcher_combo_wide1680x1050x32bit = Широкоэкранный 16:10   1680 х 1050
+launcher_combo_wide1440x900x32bit = Широкоэкранный 16:10   1440 х 900
+launcher_combo_wide1280x800x32bit = Широкоэкранный 16:10   1280 х 800
+launcher_combo_wide1920x1080x32bit = Широкоэкранный 16:9   1920 х 1080
+launcher_combo_wide1280x720x32bit = Широкоэкранный 16:9   1280 х 720
+
+// WIDE RESOLUTIONS ALTERNATIVE 
+launcher_combo_1920x1200x32bit = 1920 х 1200 (Широкоэкранный)
+launcher_combo_1680x1050x32bit = 1680 х 1050 (Широкоэкранный)
+launcher_combo_1440x900x32bit = 1440 х 900 (Широкоэкранный)
+launcher_combo_1280x800x32bit = 1280 х 800 (Широкоэкранный)
+launcher_combo_1920x1080x32bit = 1920 х 1080 (Широкоэкранный)
+launcher_combo_1280x720x32bit = 1280 х 720 (Широкоэкранный)
+
+// LAUNCHER UPDATE FEATURE 
+launcher_check_updates = Проверить обновления
+launcher_updates_gameupdates = Обновления игры
+launcher_updates_check_now = Проверить
+launcher_updates_possible_available = Возможно, имеются обновления...
+launcher_updates_not_found = Обновлений не найдено
+launcher_updates_found = Найдены обновления
+launcher_updates_version = Версия
+launcher_updates_update_now = Обновить
+launcher_updates_automatic = Проверять наличие обновлений автоматически
+launcher_updates_current_version = Текущая версия
+launcher_updates_patch_version = Версия обновления
+launcher_updates_updating = Обновление...
+launcher_updates_download = Скачать обновление
+launcher_updates_close = Закрыть
+launcher_updates_status = Статус
+
+// MODS AND LEVEL EDITOR 
+launcher_mods_and_editor = Моды и редактор уровней
+launcher_survivor_modsupport = Trine обеспечивает мощную поддержку модификаций. Нажмите на кнопку, чтобы открыть меню модов и редактора уровней.
+
+// LAUNCHER MOD DIALOG 
+launcher_launch_game = Запустить игру
+launcher_activate = Активировать
+launcher_deactivate = Деактивировать
+launcher_mod_info = Если у вас установлены моды, используйте выпадающий список сверху и щелкните по кнопке «Активировать», чтобы выбрать мод.
+launcher_no_mod = Модификаций не выбрано
+launcher_mod_selection = Выбор модификации
+
+launcher_editor = Редактор уровней
+launcher_editor_info = Редактор уровней Trine позволяет создавать новый задания и модификации. Пожалуйста, прочитайте руководство для более подробной информации.
+launcher_editor_manual = Прочитать руководство
+launcher_editor_inenglish = (на английском)
+launcher_editor_inenglish_only = (только на английском)
+launcher_editor_launch = Запустить редактор уровней
+launcher_editor_use_or_read = Если вы хотите воспользоваться редактором уровней, выберите «Запустить редактор» или «Прочитать справку по редактору»
+launcher_editor_read_help = Прочитать справку по редактору
+launcher_editor_tutorials = Посмотреть обучающие видеоролики
+
+
+

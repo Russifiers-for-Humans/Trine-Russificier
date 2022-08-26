@@ -1,0 +1,121 @@
+
+// Menus, hint messages
+
+Gui
+{
+  data/locale/common/gui_progressbar.loc
+  data/locale/common/gui_upgradeavailable.loc
+  data/locale/common/gui_upgradeamount.loc
+
+  data/locale/common/gui_weapon.loc
+  data/locale/common/gui_ammo.loc
+  data/locale/common/gui_flashlight.loc
+  data/locale/common/gui_items.loc
+  data/locale/common/gui_messages.loc
+  data/locale/common/gui_loadingwindow.loc
+  data/locale/common/gui_loadingbar.loc
+  data/locale/common/gui_inventory.loc
+  data/locale/common/gui_pausemenu.loc
+  data/locale/common/gui_gameovermenu.loc
+  data/locale/common/gui_gamecontrollerinfomenu.loc
+  data/locale/common/gui_item_images.loc
+  data/locale/common/gui_character.loc
+  data/locale/common/gui_confirm.loc
+
+  data/locale/common/gui_menu_common.loc
+  data/locale/common/gui_mainmenu.loc
+  data/locale/common/gui_loadgamemenu.loc
+  data/locale/common/gui_profilesmenu.loc
+  data/locale/common/gui_optionsmenu.loc
+  data/locale/common/gui_newgamemenu.loc
+  data/locale/common/gui_creditsmenu.loc
+  data/locale/common/gui_creditsmenu_aspect.loc
+  data/locale/common/gui_changesaveslotmenu.loc
+  data/locale/common/gui_changedifficultymenu.loc
+  data/locale/common/gui_change_controller_cfg_menu.loc
+  data/locale/common/gui_customizecontrolsmenu.loc
+
+  data/locale/common/gui_demo_mainmenu.loc
+  data/locale/common/gui_tutorial_messages.loc
+  
+  data/locale/common/gui_mischint_messages.loc
+
+  data/locale/common/gui_cinematics.loc
+  
+  data/locale/common/gui_sounds.loc
+
+  data/locale/common/gui_mission_info.loc
+  data/locale/common/gui_optionsmenu_common.loc
+
+// OLD:
+//  data/mission/tutorial1/locale/common/gui_loadingwindow.loc
+//  data/mission/castle1/locale/common/gui_loadingwindow.loc
+//  data/mission/castle2/locale/common/gui_loadingwindow.loc
+//  data/mission/castle3/locale/common/gui_loadingwindow.loc
+//  data/mission/castle5/locale/common/gui_loadingwindow.loc
+//  data/mission/courtyard1/locale/common/gui_loadingwindow.loc
+//  data/mission/cemetery1/locale/common/gui_loadingwindow.loc
+//  data/mission/forest1/locale/common/gui_loadingwindow.loc
+//  data/mission/forest2/locale/common/gui_loadingwindow.loc
+//  data/mission/darkforest1/locale/common/gui_loadingwindow.loc
+//  data/mission/crypt1/locale/common/gui_loadingwindow.loc
+//  data/mission/darkcrypt1/locale/common/gui_loadingwindow.loc
+//  data/mission/mines1/locale/common/gui_loadingwindow.loc
+//  data/mission/village1/locale/common/gui_loadingwindow.loc
+//  data/mission/bossarea/locale/common/gui_loadingwindow.loc
+
+  data/locale/common/gui_loadingwindow_levels.loc
+  data/locale/common/levelbriefings.loc
+
+
+// delete if unnecessary like it should be:
+  data/locale/$$/old_unused_locales.loc
+// also, this might need to be included if we want to use it:
+// (only used ever for SGS Polish version)
+
+  data/locale/$$/keycode_names.loc
+
+  data/locale/$$/gui_bigfile.loc
+  data/locale/$$/launcher.loc
+  data/locale/$$/updater.loc
+  data/locale/$$/key_control_names.loc
+  data/locale/$$/item_descriptions.loc
+
+// UPDATES
+  data/locale/$$/updates_afterlokit1.loc
+  data/locale/$$/updates_afterlokit2.loc
+  data/locale/$$/updates_afterlokit3.loc
+
+// OVERRIDES
+  data/locale/$$/levelbriefings_override.loc
+  data/locale/$$/common_locale_override.loc
+  data/locale/$$/launcher_languages_override.loc
+
+}
+
+// Subtitles, messages, logs
+
+Subtitles
+{
+  data/locale/$$/subtitles_dialogue.loc
+  data/locale/$$/subtitles_hints.loc
+
+// UPDATES
+  data/locale/$$/updates_afterlokit1.loc
+  data/locale/$$/updates_afterlokit2.loc
+  data/locale/$$/updates_afterlokit3.loc
+  data/locale/$$/subtitles_hints_keymappings.loc
+
+// SPLIT LINES
+  data/locale/$$/subtitles_dialogue_splitlines_timings.loc
+  data/locale/$$/subtitles_dialogue_splitlines.loc
+
+
+
+}
+
+// Speech filename replacement
+
+Speech
+{
+}

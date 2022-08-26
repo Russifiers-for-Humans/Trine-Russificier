@@ -1,0 +1,675 @@
+Language
+{
+  launcher_combo_english
+  {
+    _POSITION = 0
+    speech_language = 0
+    subtitle_language = 0
+    menu_language = 0
+  }
+
+   launcher_combo_german
+   {
+      _POSITION = 1
+      menu_language = 1
+      speech_language = 1
+      subtitle_language = 1
+   }
+
+   launcher_combo_french
+   {
+      _POSITION = 2
+      menu_language = 2
+      speech_language = 2
+      subtitle_language = 2
+   }   
+ 
+   launcher_combo_spanish
+   {
+      _POSITION = 3
+      menu_language = 3
+      speech_language = 3
+      subtitle_language = 3
+   }  
+
+   launcher_combo_italian
+   {
+      _POSITION = 4
+      menu_language = 4
+      speech_language = 4
+      subtitle_language = 4
+   }   
+
+   launcher_combo_finnish
+   {
+      _POSITION = 5
+      menu_language = 5
+      speech_language = 0
+      subtitle_language = 5
+   }
+
+   launcher_combo_turkish
+   {
+      _POSITION = 6
+      menu_language = 6
+      speech_language = 0
+      subtitle_language = 6
+   }
+
+   launcher_combo_portuguese
+   {
+      _POSITION = 7
+      menu_language = 7
+      speech_language = 0
+      subtitle_language = 7
+   }
+
+   launcher_combo_romanian
+   {
+      _POSITION = 8
+      menu_language = 8
+      speech_language = 0
+      subtitle_language = 8
+   }
+
+   launcher_combo_russian
+   {
+      _POSITION = 9
+      menu_language = 9
+      speech_language = 9
+      subtitle_language = 9
+   }
+
+}
+
+Resolution
+{
+
+  launcher_combo_1920x1200x32bit
+  {
+    _POSITION = 0
+    screen_bpp = 32
+    screen_width = 1920
+    screen_height = 1200
+  }
+
+  launcher_combo_1920x1080x32bit
+  {
+    _POSITION = 1
+    screen_bpp = 32
+    screen_width = 1920
+    screen_height = 1080
+  }
+
+  launcher_combo_1680x1050x32bit
+  {
+    _POSITION = 2
+    screen_bpp = 32
+    screen_width = 1680
+    screen_height = 1050
+  }
+
+  launcher_combo_1600x1200x32bit
+  {
+    _POSITION = 3
+    screen_bpp = 32
+    screen_width = 1600
+    screen_height = 1200
+  }
+
+  launcher_combo_1440x900x32bit
+  {
+    _POSITION = 4
+    screen_bpp = 32
+    screen_width = 1440
+    screen_height = 900
+  }
+
+  launcher_combo_1280x1024x32bit
+  {
+    _POSITION = 5
+    screen_bpp = 32
+    screen_width = 1280
+    screen_height = 1024
+  }
+
+  launcher_combo_1280x960x32bit
+  {
+    _POSITION = 6
+    screen_bpp = 32
+    screen_width = 1280
+    screen_height = 960
+  }
+
+  launcher_combo_1280x800x32bit
+  {
+    _POSITION = 7
+    screen_bpp = 32
+    screen_width = 1280
+    screen_height = 800
+  }
+
+  launcher_combo_1280x720x32bit
+  {
+    _POSITION = 8
+    screen_bpp = 32
+    screen_width = 1280
+    screen_height = 720
+  }
+
+  launcher_combo_1024x768x32bit
+  {
+    _POSITION = 9
+    screen_bpp = 32
+    screen_width = 1024
+    screen_height = 768
+  }
+
+  launcher_combo_800x600x32bit
+  {
+    _POSITION = 10
+    screen_bpp = 32
+    screen_width = 800
+    screen_height = 600
+  }
+
+  launcher_combo_640x480x32bit
+  {
+    _POSITION = 11
+    screen_bpp = 32
+    screen_width = 640
+    screen_height = 480
+  }
+}
+
+GraphicsDetail 
+{
+  // Shared crap settings, shouldn't have any effect
+  shared
+  {
+    _POSITION=99
+    extra_gamma_effects = 1
+    fakeshadows_texture_quality = 0
+    high_quality_lightmap = 1
+    lighting_level = 100
+    lighting_texture_quality = 0
+    gore_level = 100
+    better_glow_sampling = 1
+    shadows_level = 100
+    shadows_texture_quality = 100
+    weather_effects = 1
+    layer_effects_level = 100
+    high_quality_video = 1
+    menu_logo_video_enabled = 1
+    reflection_quality = 0
+    render_reflection = 0
+    render_half_resolution_reflection = 0
+    render_particle_reflection = 0
+    render_spot_shadow_reflection = 0
+    render_distortion_reflection = 0
+    render_glow_reflection = 0
+    render_spot_reflection = 0 
+    render_max_pointlights = 5
+    particle_effects_level = 100
+    procedural_fallback = 0
+    render_sky_bloom = 1
+    render_pointlight_normalmaps_normalize = 1
+    corpse_disappear_time = 15
+    render_pointlight_normalmaps = 1
+    render_spot_normalmaps = 1
+    render_half_resolution = 0
+  }
+
+  launcher_combo_very_high: shared
+  {
+    _POSITION = 0
+    render_glow = 1
+    render_distortion = 1
+    texture_detail_level = 100
+    anisotrophy = 8
+    environment_animations = 1
+    render_pointlight_normalmaps_specular = 1
+  }
+
+  launcher_combo_high: shared
+  {
+    _POSITION = 1
+    render_glow = 1
+    render_distortion = 1
+    texture_detail_level = 75
+    anisotrophy = 8
+    environment_animations = 1
+    render_pointlight_normalmaps_specular = 1
+  }
+
+  launcher_combo_medium: shared
+  {
+    _POSITION = 2
+    render_glow = 1
+    render_distortion = 0
+    texture_detail_level = 50
+    anisotrophy = 4
+    environment_animations = 1
+    render_pointlight_normalmaps_specular = 1
+  }
+
+  launcher_combo_low: shared
+  {
+    _POSITION = 3
+    render_glow = 0
+    render_distortion = 0
+    texture_detail_level = 25
+    anisotrophy = 2
+    environment_animations = 0
+    render_pointlight_normalmaps_specular = 0
+    procedural_fallback = 1
+  }
+
+  launcher_combo_very_low: shared
+  { 
+    _POSITION = 4
+    render_glow = 0
+    render_distortion = 0
+    texture_detail_level = 0
+    anisotrophy = 1
+    environment_animations = 0
+    render_pointlight_normalmaps_specular = 0
+    particle_effects_level = 25
+    procedural_fallback = 1
+    render_half_resolution = 1
+  }
+
+  launcher_combo_custom
+  {
+    _POSITION = 5
+  }
+}
+
+
+EnableMenuVideo
+{
+  true
+  {
+    menu_video_enabled = 1
+  }
+  
+  false
+  {
+    menu_video_enabled = 0
+  }
+}
+
+VSync
+{
+  true
+  {
+    render_use_vsync = 1
+  }
+
+  false
+  {
+    render_use_vsync = 0
+  }
+}
+
+
+Fullscreen
+{
+  true
+  {
+    windowed = 0
+  }
+
+  false
+  {
+    windowed = 1
+  }
+}
+
+SpeakerType
+{
+  launcher_combo_headphones
+  {
+    _POSITION = 1
+    sound_speaker_type = headphones
+  }
+
+  launcher_combo_mono_speakers
+  {
+    _POSITION = 3
+    sound_speaker_type = mono
+  }
+
+  launcher_combo_stereo_speakers
+  {
+    _POSITION = 0
+    sound_speaker_type = stereo
+  }
+
+  launcher_combo_quad_speakers
+  {
+    _POSITION = 4
+    sound_speaker_type = quad
+  }
+
+  launcher_combo_Surround_speakers
+  {
+    _POSITION = 5
+    sound_speaker_type = surround
+  }
+
+  launcher_combo_dolby_digital_5.1
+  {
+    _POSITION = 2
+    sound_speaker_type = dolby
+  }
+}
+
+MixingRate
+{
+  launcher_combo_44100hz
+  {
+    _POSITION = 0
+    sound_mixrate = 44100
+  }
+
+  launcher_combo_22050hz
+  {
+    _POSITION = 1
+    sound_mixrate = 22050
+  }
+}
+
+Sounds
+{
+  true
+  {
+    music_enabled = 1
+    sounds_enabled = 1
+    speech_enabled = 1
+    fx_enabled = 1
+  }
+
+  false
+  {
+    music_enabled = 0
+    sounds_enabled = 0
+    speech_enabled = 0
+    fx_enabled = 0
+  }
+}
+
+Eax
+{
+  true
+  {
+    sound_use_eax = 1
+    sound_use_hardware = 1
+  }
+
+  false
+  {
+    sound_use_eax = 0
+    sound_use_hardware = 0
+  }
+}
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Advanced
+//.......................................................................................
+
+Anisotropic Filtering
+{
+  launcher_combo_disabled
+  {
+    _POSITION = 0
+    anisotrophy = 1
+  }
+
+  launcher_combo_ani_2
+  {
+    _POSITION = 1
+    anisotrophy = 2
+  }
+
+  launcher_combo_ani_4
+  {
+    _POSITION = 2
+    anisotrophy = 4
+  }
+
+  launcher_combo_ani_8
+  {
+    _POSITION = 3
+    anisotrophy = 8
+  }
+}
+
+Antialiasing
+{
+  launcher_combo_disabled
+  {
+    _POSITION = 0
+    antialias_samples = 1
+    antialias_active_samples = 1
+  }
+
+  launcher_combo_aa_2x_samples
+  {
+    _POSITION = 1
+    antialias_samples = 2
+    antialias_active_samples = 2
+  }
+
+  launcher_combo_aa_4x_samples
+  {
+    _POSITION = 2
+    antialias_samples = 4
+    antialias_active_samples = 4
+  }
+
+}
+
+
+VideoEnabled
+{
+  true
+  {
+    video_enabled = 1
+  }
+
+  false
+  {
+    video_enabled = 0
+  }
+}
+
+High Quality Video
+{
+  true
+  {
+    high_quality_video = 1
+    menu_logo_video_enabled = 1
+  }
+
+  false
+  {
+    high_quality_video = 0
+    menu_logo_video_enabled = 0
+  }
+}
+
+DistortionEffects
+{
+  true
+  {
+    render_distortion = 1
+  }
+  
+  false
+  {
+    render_distortion = 0  
+  }
+}
+
+Extra Gamma Effects
+{
+  true
+  {
+    extra_gamma_effects = 1
+  }
+
+  false
+  {
+    extra_gamma_effects = 0
+  }
+}
+
+Particle Effects Level
+{
+  launcher_combo_very_high
+  {
+    _POSITION = 0
+    particle_effects_level = 100
+  }
+
+  launcher_combo_high
+  {
+    _POSITION = 1
+    particle_effects_level = 75
+  }
+
+  launcher_combo_medium
+  {
+    _POSITION = 2
+    particle_effects_level = 50
+  }
+
+  launcher_combo_low
+  {
+    _POSITION = 3
+    particle_effects_level = 25
+  }
+
+  launcher_combo_very_low
+  {
+    _POSITION = 4
+    particle_effects_level = 0
+  }
+}
+
+Render Glow
+{
+  true
+  {
+    render_glow = 1
+  }
+
+  false
+  {
+    render_glow = 0
+  }
+}
+
+Texture Detail Level
+{
+  launcher_combo_very_high
+  {
+    _POSITION = 0
+    texture_detail_level = 100
+  }
+
+  launcher_combo_high
+  {
+    _POSITION = 1
+    texture_detail_level = 75
+  }
+
+  launcher_combo_medium
+  {
+    _POSITION = 2
+    texture_detail_level = 50
+  }
+
+  launcher_combo_low
+  {
+    _POSITION = 3
+    texture_detail_level = 25
+  }
+  
+  launcher_combo_very_low
+  {
+    _POSITION = 4
+    texture_detail_level = 0
+  }
+}
+
+Physics Quality
+{
+  launcher_combo_physics_very_high
+  {
+    _POSITION = 0
+    physics_fluids_enabled = 1
+    physics_use_multithreading = 1
+    physics_max_model_particles = 300
+  }
+
+  launcher_combo_physics_high
+  {
+    _POSITION = 1
+    physics_fluids_enabled = 0
+    physics_use_multithreading = 1
+    physics_max_model_particles = 50
+  }
+
+  launcher_combo_physics_medium
+  {
+    _POSITION = 2
+    physics_fluids_enabled = 0
+    physics_use_multithreading = 1
+    physics_max_model_particles = 30
+  }  
+  
+  launcher_combo_physics_low
+  {
+    _POSITION = 3
+    physics_fluids_enabled = 0
+    physics_use_multithreading = 1
+    physics_max_model_particles = 10
+  }  
+
+  launcher_combo_physics_very_low
+  {
+    _POSITION = 4
+    physics_fluids_enabled = 0
+    physics_use_multithreading = 0
+    physics_max_model_particles = 0
+  }  
+  
+  launcher_combo_physics_custom
+  {
+    _POSITION = 5
+  }
+
+//  launcher_combo_physics_alternative
+//  {
+//    _POSITION = 5
+//    physics_enabled = 0
+//    physics_use_multithreading = 0
+//    physics_max_model_particles = 0
+//  }
+
+}
+
+Multiple Input
+{
+  true
+  {
+    multiple_input_devices_enabled = 1
+  }
+
+  false
+  {
+    multiple_input_devices_enabled = 0
+  }
+}

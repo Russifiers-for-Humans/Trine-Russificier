@@ -1,0 +1,255 @@
+﻿
+tutorial1_header_text = Астральная академия
+castle1_header_text = Внутренний двор академии
+courtyard1_header_text = Чертногосломные катакомбы
+cemetery1_header_text = Кладбище драконов
+crypt1_header_text = Кристальные пещеры
+darkcrypt1_header_text = Склеп Проклятых
+castle2_header_text = Покинутые подземелья
+castle3_header_text = Трон погибшего короля
+forest1_header_text = Загадочный лес
+darkforest1_header_text = Темнотерновая чаща
+forest2_header_text = Развалины Исчезнувших
+mines1_header_text = Центральные шахты
+village1_header_text = Деревня Хоббитовка
+castle5_header_text = Кузница
+bossarea_header_text = Башня Сарека
+
+
+// LOADING SCREEN - ASTRAL ACADEMY
+gui_loadingwindow_tutorial1_textqueue
+{
+wait 1
+wait 500
+wait, "$(tutorial1_01_narrator_on_the_outskirts)", speechfile:data/audio/sound/vocals/$$/tutorial1_01_narrator_on_the_outskirts.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - ACADEMY HALLWAYS
+gui_loadingwindow_castle1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_castle1_01_our_new_heroes)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle1_01_our_new_heroes.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_castle1_02_finally_the_wizard)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle1_02_finally_the_wizard.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_castle1_03_the_wizard_could)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle1_03_the_wizard_could.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_castle1_04_the_knight_didnt)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle1_04_the_knight_didnt.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - WOLVERCOTE CATACOMBS
+gui_loadingwindow_courtyard1_textqueue
+{
+wait 1
+wait 500
+wait, "$(courtyard1_loadingscreen_01_narrator_what_lay_ahead)", speechfile:data/audio/sound/vocals/$$/courtyard1_loadingscreen_01_narrator_what_lay_ahead.wav
+wait 1
+wait 500
+wait, "$(courtyard1_loadingscreen_02_narrator_but_our_heroes)", speechfile:data/audio/sound/vocals/$$/courtyard1_loadingscreen_02_narrator_but_our_heroes.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+
+// LOADING SCREEN - DRAGON GRAVEYARD
+gui_loadingwindow_cemetery1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_cemetery1_01_narrator_as_the_wizard)", speechfile:data/audio/sound/vocals/$$/loadingscreen_cemetery1_01_narrator_as_the_wizard.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_cemetery1_02_narrator_the_two_remaining)", speechfile:data/audio/sound/vocals/$$/loadingscreen_cemetery1_02_narrator_the_two_remaining.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_cemetery1_03_narrator_the_wizard_did)", speechfile:data/audio/sound/vocals/$$/loadingscreen_cemetery1_03_narrator_the_wizard_did.wav
+wait 1
+//wait 500
+//wait, "$(loadingscreen_cemetery1_04_narrator_our_heroes_journey)", speechfile:data/audio/sound/vocals/$$/loadingscreen_cemetery1_04_narrator_our_heroes_journey.wav
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - CRYSTAL CAVERNS
+gui_loadingwindow_crypt1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_crypt1_01_narrator_having_survived_the)", speechfile:data/audio/sound/vocals/$$/loadingscreen_crypt1_01_narrator_having_survived_the.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_crypt1_02_narrator_there_had_once)", speechfile:data/audio/sound/vocals/$$/loadingscreen_crypt1_02_narrator_there_had_once.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_crypt1_03_narrator_the_guardians_enchanted)", speechfile:data/audio/sound/vocals/$$/loadingscreen_crypt1_03_narrator_the_guardians_enchanted.wav
+wait 1
+//wait 500
+//wait, "$(loadingscreen_crypt1_04_narrator_the_wizard_could)", speechfile:data/audio/sound/vocals/$$/loadingscreen_crypt1_04_narrator_the_wizard_could.wav
+wait 4000
+wait, ""
+}
+
+
+// LOADING SCREEN - CRYPT OF THE DAMNED
+gui_loadingwindow_darkcrypt1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_darkcrypt1_01_narrator_fear_had_found)", speechfile:data/audio/sound/vocals/$$/loadingscreen_darkcrypt1_01_narrator_fear_had_found.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_darkcrypt1_02_narrator_deeply_troubled_their)", speechfile:data/audio/sound/vocals/$$/loadingscreen_darkcrypt1_02_narrator_deeply_troubled_their.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_darkcrypt1_03_narrator_and_the_wizard)", speechfile:data/audio/sound/vocals/$$/loadingscreen_darkcrypt1_03_narrator_and_the_wizard.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+
+// LOADING SCREEN - FORSAKEN DUNGEONS
+gui_loadingwindow_castle2_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_castle2_01_narrator_our_heroes_enter)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle2_01_narrator_our_heroes_enter.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+
+// LOADING SCREEN - THRONE OF THE LOST KING
+gui_loadingwindow_castle3_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_castle3_01_narrator_the_second_artifact)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle3_01_narrator_the_second_artifact.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_castle3_02_narrator_over_the_decades)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle3_02_narrator_over_the_decades.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+
+// LOADING SCREEN - FANGLE FOREST
+gui_loadingwindow_forest1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_forest1_01_narrator_with_great_enthusiasm)", speechfile:data/audio/sound/vocals/$$/loadingscreen_forest1_01_narrator_with_great_enthusiasm.wav
+wait 500
+wait 1
+wait, "$(loadingscreen_forest1_02_narrator_the_kings_journal_2)", delay: 16000
+wait, "$(loadingscreen_forest1_02_narrator_the_kings_journal_1)", speechfile:data/audio/sound/vocals/$$/loadingscreen_forest1_02_narrator_the_kings_journal.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_forest1_03_narrator_at_the_edge)", speechfile:data/audio/sound/vocals/$$/loadingscreen_forest1_03_narrator_at_the_edge.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - SHADOWTHORN THICKET
+gui_loadingwindow_darkforest1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_darkforest1_01_narrator_the_night_came)", speechfile:data/audio/sound/vocals/$$/loadingscreen_darkforest1_01_narrator_the_night_came.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+
+// LOADING SCREEN - RUINS OF THE PERISHED
+gui_loadingwindow_forest2_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_forest2_01_narrator_finally_the_darkness)", speechfile:data/audio/sound/vocals/$$/loadingscreen_forest2_01_narrator_finally_the_darkness.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_forest2_02_narrator_the_ruins_of)", speechfile:data/audio/sound/vocals/$$/loadingscreen_forest2_02_narrator_the_ruins_of.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - HEARTLAND MINES
+gui_loadingwindow_mines1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_mines1_01_narrator_not_too_long)", speechfile:data/audio/sound/vocals/$$/loadingscreen_mines1_01_narrator_not_too_long.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_mines1_02_narrator_even_worse_it)", speechfile:data/audio/sound/vocals/$$/loadingscreen_mines1_02_narrator_even_worse_it.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_mines1_03_narrator_the_trine_was)", speechfile:data/audio/sound/vocals/$$/loadingscreen_mines1_03_narrator_the_trine_was.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - BRIGHTSIDE VILLAGE
+gui_loadingwindow_village1_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_village1_01_narrator_as_our_heroes)", speechfile:data/audio/sound/vocals/$$/loadingscreen_village1_01_narrator_as_our_heroes.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_village1_02_narrator_our_heroes_understood)", speechfile:data/audio/sound/vocals/$$/loadingscreen_village1_02_narrator_our_heroes_understood.wav
+wait 1
+wait 500
+wait, "$(loadingscreen_village1_03_narrator_despite_everpresent_danger)", speechfile:data/audio/sound/vocals/$$/loadingscreen_village1_03_narrator_despite_everpresent_danger.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - IRON FORGE
+gui_loadingwindow_castle5_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_castle5_01_narrator_our_heroes_broke)", speechfile:data/audio/sound/vocals/$$/loadingscreen_castle5_01_narrator_our_heroes_broke.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+// LOADING SCREEN - TOWER OF SAREK
+gui_loadingwindow_bossarea_textqueue
+{
+wait 1
+wait 500
+wait, "$(loadingscreen_bossarea1_01_narrator_as_our_heroes)", speechfile:data/audio/sound/vocals/$$/loadingscreen_bossarea1_01_narrator_as_our_heroes.wav
+wait 1
+wait 4000
+wait, ""
+}
+
+
+
+
+
+
+
+

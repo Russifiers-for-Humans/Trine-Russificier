@@ -1,0 +1,290 @@
+﻿
+
+
+// gui_mainmenu.loc 
+// Main menu 
+gui_mm_continue = Продолжить
+gui_mm_resume = Продолжить
+gui_mm_new_game = Новая игра
+gui_mm_load_game = Загрузить игру
+gui_mm_profiles = Игроки
+gui_mm_options = Настройки
+gui_mm_credits = Титры
+gui_mm_quit = Выход
+
+gui_mainmenu_abortbox_text = Вы действительно хотите прервать текущую игру?
+gui_mainmenu_abort_yes_text = Да
+gui_mainmenu_abort_no_text = Нет
+
+gui_abort_quit_game = Выйти из игры?
+
+
+
+// gui_common.loc 
+// Shared variables 
+
+gui_start = Старт
+gui_close = Закрыть
+gui_quit = Выход
+gui_next = Дальше
+gui_back = Назад
+gui_continue = Продолжить
+gui_custom = Пользовательский
+
+gui_paused = Игра приостановлена
+
+
+// new game menu 
+gui_newgamemenu_gamemode_singleplayer = Одиночная игра
+gui_newgamemenu_gamemode_cooperative = Совместная игра
+gui_newgamemenu_text_gamemode = Режим игры
+gui_newgamemenu_text_difficultylevel = Уровень сложности
+gui_newgamemenu_text_coopprofile = Данные совместной игры
+gui_newgame_startgame_text = Старт
+
+
+// Load game menu 
+gui_lgm_load =  Загрузить
+gui_lgm_closeme = Главное меню
+gui_lgm_empty = Пусто
+gui_lgm_empty_sub = Пусто
+gui_lgm_header = Загрузить игру
+//gui_lgm_header_coop = Загрузить игру (совместное прохождение)
+//gui_lgm_bonusoptions = Дополнительные настройки
+//gui_lgm_applybonusoptions = Применить
+
+// Profiles menu 
+gui_pm_select = Выбрать
+gui_pm_new = Новый
+gui_pm_delete = Удалить
+gui_pm_closeme = Главное меню
+gui_pm_empty = -- Пусто --
+gui_pm_header = Игроки
+gui_pm_player = Игрок
+
+
+// gui_options.loc 
+gui_optionsmenu_text_mousespring = Движение мыши
+camera_lock_y_axis = Блокировка оси y мыши
+
+gui_options_player_1 = Игрок 1
+gui_options_player_2 = Игрок 2
+gui_options_player_3 = Игрок 3
+gui_options_player_4 = Игрок 4
+gui_options_difficulty = Сложность
+demo_camera_name = Свободная камера
+gui_options_playgamewithpad_name = Использовать геймпад
+gui_options_auto_balance = Авто-баланс
+gui_optionsmenu_text_joystickaxis = Оси джойстика
+gui_optionsmenu_text_rotatespeed = Скорость вращения
+
+gui_options_very_easy = Очень легкий
+gui_options_easy = Легкий
+gui_options_normal = Обычный
+gui_options_hard = Сложный
+gui_options_very_hard = Очень сложный
+
+gui_options_disabled = Отключено
+gui_options_custom = Пользовательский
+gui_options_joypad1 = Джойстик 1
+gui_options_joypad2 = Джойстик 2
+gui_options_kb_mouse = Мышь
+gui_options_none = Отсутствует
+gui_options_on = Вкл.
+gui_options_off = Выкл.
+
+gui_optionsmenu_text_soundsettings = Настройки звука
+gui_optionsmenu_text_difficultylevel = Режим камеры
+gui_optionsmenu_text_controls = Управление
+gui_optionsmenu_text_music = Музыка
+//gui_optionsmenu_text_music = Музыка и окружение
+gui_optionsmenu_text_sound_fx = Эффекты
+gui_optionsmenu_text_speech = Речь
+gui_optionsmenu_text_ambient = Окружение
+
+gui_optionsmenu_text_easy = Легкий
+gui_optionsmenu_text_normal = Нормальный
+gui_optionsmenu_text_hard = Сложный
+gui_optionsmenu_text_very_hard = Очень сложный
+gui_optionsmenu_text_extremely_hard = Невероятный
+
+// Options menu 
+gui_om_header = Настройки
+gui_om_closeme = Ок
+gui_om_defaults = Восстановить по умолчанию
+//gui_om_defaults = Восстановить по умолчанию _____
+gui_optionsmenu_text_profiles = Профили
+gui_optionsmenu_joystick_y_axis = Ось - Y
+gui_optionsmenu_joystick_x_axis = Ось - X
+
+gui_optionsmenu_joystick_left_y_axis = Левый джойстик - ось Y
+gui_optionsmenu_joystick_left_x_axis = Левый джойстик - ось X
+gui_optionsmenu_joystick_right_y_axis = Правый джойстик - ось Y
+gui_optionsmenu_joystick_right_x_axis = Правый джойстик - ось X
+
+gui_optionsmenu_gammatext = Гамма
+gui_optionsmenu_text_graphics = Графика
+
+gui_optionsmenu_controllertype_mouse = Клавиатура/Мышь
+gui_optionsmenu_controllertype_keyboard = Только клавиатура
+gui_optionsmenu_controllertype_joystick = Геймпад
+
+// gui_upgrades.loc 
+gui_upgrades_close = Ок
+gui_upgrades_undo = Отменить
+
+gui_upgrades_title = Оружие и предметы
+
+gui_upgrades_insufficient_parts = Не получается.
+
+// gui_tip_units.loc 
+//tip_unit_open_door = Нажмите ИСПОЛЬЗОВАТЬ (по умолчанию E), чтобы открыть дверь.
+//tip_unit_close_door = Нажмите ИСПОЛЬЗОВАТЬ (по умолчанию E), чтобы закрыть дверь.
+
+// gui_tip_items.loc 
+//tip_item_use_switch = Нажмите ИСПОЛЬЗОВАТЬ (S или E), чтобы повернуть выключатель
+tip_item_lever = Нажмите ИСПОЛЬЗОВАТЬ (S или E), чтобы повернуть рычаг
+tip_item_chest = Нажмите ИСПОЛЬЗОВАТЬ (S или E), чтобы открыть сундук
+tip_item_chest_skill = Нажмите ИСПОЛЬЗОВАТЬ (S или E), чтобы открыть сундук
+tip_item_checkpoint = Нажмите ИСПОЛЬЗОВАТЬ (S или E), чтобы задействовать контрольную точку
+
+notip = 
+
+
+
+
+
+// gui_unit_pointers.loc 
+// Weapon pickups for unitpointers 
+//ingame_up_shield_wooden = Деревянный щит
+//ingame_up_dungeon_key = Ключ от подземелья
+
+// gui_health.loc 
+// Player Health text 
+//gui_health_textbox_text = Здоровье
+gui_health_textbox_text = 
+
+// gui_energy.loc 
+// Player Energy text 
+//gui_energy_textbox_text = Энергия
+gui_energy_textbox_text = 
+
+// gui_loadingwindow.loc 
+gui_loadingwindow_closebutton_text = 
+gui_loadingwindow_loadingbutton_text = 
+//gui_loadingwindow_closebutton_text = СТАРТ
+//gui_loadingwindow_loadingbutton_text = ЗАГРУЗКА...
+
+// gui_loadingbar.loc 
+//gui_loadingbar_unloading = Выгружаем информацию о предыдущем уровне...
+//gui_loadingbar_loading = Загрузка...
+
+gui_loadingbar_unloading = 
+gui_loadingbar_loading = 
+
+//gui_loadingbar_loading = Загружаем информацию...
+//gui_loadingbar_unloading = Выгружаем информацию...
+
+
+// gui_loading.loc 
+gui_loading_regen_bin_convermap = Пересоздаем двоичный файл: covermap
+gui_loading_regen_bin_hidemap = Пересоздаем двоичный файл: hidemap
+gui_loading_regen_bin_obstaclemap = Пересоздаем двоичный файл: obstaclemap
+
+// gui_inventory.loc 
+// Character info 
+gui_inv_lvl_text = 
+gui_inv_exp_text = 
+
+gui_inv_unassigned_skillpoints_text = Очки навыков:
+
+
+// gui_ingame_common.loc 
+// Weapon names 
+gui_weapon_select_text_0 = 
+gui_weapon_select_text_1 = 
+gui_weapon_select_text_2 = 
+gui_weapon_select_text_3 = 
+gui_weapon_select_text_4 = 
+gui_weapon_select_text_5 = 
+gui_weapon_select_text_6 = 
+gui_weapon_select_text_7 = 
+gui_weapon_select_text_8 = 
+gui_weapon_select_text_9 = 
+
+// Coop labels 
+gui_weapon_coop0_label_text = Игрок 1
+gui_weapon_coop1_label_text = Игрок 2
+gui_weapon_coop2_label_text = Игрок 3
+gui_weapon_coop3_label_text = Игрок 4
+
+
+
+
+// gui_savegame_desc.loc 
+// savegame descriptions 
+game_saved = Игра сохранена.
+
+
+// gui_mission.loc 
+
+gui_mission_start_mission = Начать миссию
+// gui_mission_MISSION_FAILED = ЗАДАНИЕ ПРОВАЛЕНО
+// gui_mission_MISSION_COMPLETE = ЗАДАНИЕ ВЫПОЛНЕНО
+gui_mission_MISSION_FAILED = 
+gui_mission_MISSION_COMPLETE = 
+
+gui_mission_MISSION_OBJECTIVES_UPDATED = Обновлены ключевые задачи
+
+// comes from NarrativeDialogue 
+gui_mission_name_tutorial1 = Астральная академия
+gui_mission_name_castle1 = Внутренний двор академии
+gui_mission_name_courtyard1 = Чертногосломные катакомбы
+gui_mission_name_cemetery1 = Кладбище драконов
+gui_mission_name_crypt1 = Кристальные пещеры
+gui_mission_name_darkcrypt1 = Склеп Проклятых
+gui_mission_name_castle2 = Покинутые подземелья
+gui_mission_name_castle3 = Трон погибшего короля
+gui_mission_name_forest1 = Загадочный лес
+gui_mission_name_darkforest1 = Темнотерновая чаща
+gui_mission_name_forest2 = Развалины Исчезнувших
+gui_mission_name_mines1 = Центральные шахты
+gui_mission_name_village1 = Деревня Хоббитовка
+gui_mission_name_castle5 = Железная кузница
+gui_mission_name_bossarea = Башня Сарека
+
+//gui_newgamemenu_text_bonusoptions = Дополнительные режимы
+//gui_newgamemenu_text_nobonusoptions = Дополнительные режимы пока заблокированы
+//gui_newgamemenu_bonus_bwmode = Черно-белый режим
+//gui_newgamemenu_bonus_superphysics = Супер-физика
+//gui_highscore_scores = Рекорды
+
+// Character selection 
+//gui_characterselectionwindow_header_text = Выберите персонажа
+
+// Map 
+//gui_tabs_map_normal_text = Карта
+
+// Highscore 
+//gui_scorewindow_title_text = Рекорды:
+//gui_scorewindow_newscore_text = Новый рекорд!
+//gui_scorewindow_closebutton_text = Продолжить
+//gui_scorewindow_restartbutton_text = Попробуйте еще раз
+//gui_scorewindow_nametext_text = Введите свое имя
+
+// savegame stuff 
+gui_misc_playtime = Игровое время
+gui_misc_kills = Убийств
+gui_misc_gameinfo = Игровая информация
+
+// options stuff 
+gui_misc_language = Язык
+gui_misc_choose_language = Выберите язык:
+gui_misc_subtitles = Субтитры
+gui_misc_subtitles_show = Показывать субтитры:
+
+// console stuff 
+gui_misc_press_start = Нажмите СТАРТ для продолжения
+
+
+

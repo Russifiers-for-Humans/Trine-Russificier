@@ -1,0 +1,491 @@
+﻿// Ability changes
+
+item_desc_bow_power
+{
+Колчан скорости
+_
+Колчан скорости позволяет воровке быстрее заряжать лук.
+_
+Следующий уровень: Позволяет воровке заряжать лук еще быстрее.
+}
+
+item_desc_bow_power_upgraded1
+{
+Колчан скорости
+_
+Колчан скорости позволяет воровке быстрее заряжать лук.
+_
+~ Теперь воровка заряжает луки быстрее. 
+_
+Следующий уровень: Воровка сможет заряжать луки почти мгновенно.
+}
+
+item_desc_bow_power_upgraded2
+{
+Колчан скорости
+_
+Колчан скорости позволяет воровке быстрее заряжать лук.
+_
+~ Теперь воровка заряжает луки почти мгновенно.
+}
+
+item_desc_bow_short
+{
+Лук
+_
+Воровка – лучник-профессионал, способный быстро расправляться с врагами на расстоянии. Ее стрелы также способны разрушать слабые объекты вроде веревок.
+_
+Следующий уровень: Позволит выпускать из лука сразу две стрелы.
+}
+
+item_desc_bow_short_upgraded1
+{
+Лук
+_
+Воровка – лучник-профессионал, способный быстро расправляться с врагами на расстоянии. Ее стрелы также способны разрушать слабые объекты вроде веревок.
+_
+~ Теперь можно выпускать из лука сразу две стрелы.
+_
+Следующий уровень: Позволит выпускать из лука сразу три стрелы.
+}
+
+item_desc_bow_short_upgraded2
+{
+Лук
+_
+Воровка – лучник-профессионал, способный быстро расправляться с врагами на расстоянии. Ее стрелы также способны разрушать слабые объекты вроде веревок.
+_
+~ Теперь можно выпускать из лука сразу три стрелы.
+}
+
+// KNIGHT SWORD AND SHIELD
+
+item_desc_swo_short
+{
+Щит и меч
+_
+У рыцаря есть щит и меч - и красный капитанский плащ. Он полностью готов к битве с нежитью!
+_
+Следующий уровень: Дает рыцарю 5% шанс нанести критический удар, вызвав тройные повреждения!
+}
+
+item_desc_swo_short_upgraded1
+{
+Щит и меч
+_
+У рыцаря есть щит и меч - и красный капитанский плащ. Он полностью готов к битве с нежитью!
+_
+~ У рыцаря есть 5% шанс нанести критический удар, вызвав тройные повреждения.
+_
+Следующий уровень: Пламенный меч! Весь меч будет гореть праведным пламенем, которое наносит дополнительные повреждения. Кроме того, увеличится урон и дистанция навыка "Море огня".
+}
+
+item_desc_swo_short_upgraded2
+{
+Щит и меч
+_
+У рыцаря есть щит и меч - и красный капитанский плащ. Он полностью готов к битве с нежитью!
+_
+~ У рыцаря есть 5% шанс нанести критический удар, вызвав тройные повреждения.
+~ Пламенный меч! Весь этот меч охвачен огнем и наносит большие повреждения, чем обычный.
+}
+
+item_desc_swo_fire_upgraded2
+{
+Щит и меч
+_
+У рыцаря есть щит и меч - и красный капитанский плащ. Он полностью готов к битве с нежитью!
+_
+~ У рыцаря есть 5% шанс нанести критический удар, вызвав тройные повреждения.
+~ Пламенный меч! Весь этот меч охвачен огнем и наносит большие повреждения, чем обычный.
+}
+
+
+// KNIGHT STORM HAMMER afterlokit1
+
+
+item_desc_swo_hammer_upgraded1
+{
+Грозовой молот
+_
+Грозовой молот, благословленный богом грома – двуручный сокрушитель всего на свете: дерева, железа, костей... Все грозовые эффекты требуют энергии.
+_
+~ Альтернативная атака наносит массовый урон.
+_
+Следующий уровень: Смерть с небес! Теперь рыцарь может выполнять альтернативную атаку, подпрыгнув и ударив молотом в землю. Берегись, нежить!
+}
+
+item_desc_swo_hammer_upgraded2
+{
+Грозовой молот
+_
+Молот грозы, благословленный богом грома – двуручный сокрушитель всего на свете: дерева, железа, костей... Все грозовые эффекты требуют энергии.
+_
+~ Альтернативная атака наносит массовый урон.
+~ Смерть с небес! Теперь рыцарь может выполнять альтернативную атаку, подпрыгнув и ударив молотом в землю. Берегись, нежить!
+}
+
+
+// KNIGHT STRENGTH OF THE TITANS
+
+item_desc_war_throw
+{
+Сила титанов
+_
+С дарованной ему силой титанов, рыцарь способен достичь еще больших высот.
+_
+~ Рыцарь может подбирать небольшие предметы и бросать их. Это уменьшает его скорость передвижения и тратит небольшую часть его энергии.
+_
+Следующий уровень: В атаку! Позволяет рыцарю разогнаться и сбить противников с ног. Отлично работает против врагов со щитами!
+}
+
+item_desc_war_throw_upgraded1
+{
+Сила титанов
+_
+С дарованной ему силой титанов, рыцарь способен достичь еще больших высот.
+_
+~ Теперь рыцарь может подбирать большие предметы. Работает только когда у рыцаря достаточно энергии, чтобы призвать богов.
+~ Рыцарь может разогнаться и сбить противников с ног. Отлично работает против врагов со щитами!
+_
+Следующий уровень: Сокрушительная атака! Позволяет рыцарю развить нечеловеческую скорость и сбить противников с ног. Слабых противников эта атака убивает моментально!
+}
+
+item_desc_war_throw_upgraded2
+{
+Сила титанов
+_
+С дарованной ему силой титанов, рыцарь способен достичь еще больших высот.
+_
+~ Теперь рыцарь может подбирать большие предметы. Работает только когда у рыцаря достаточно энергии, чтобы призвать богов.
+~ Сокрушительная атака! Рыцарь способен развить нечеловеческую скорость и сбить противников с ног. Слабых противников эта атака убивает моментально!
+}
+
+
+
+// Item changes
+
+item_desc_pendant_h
+{
+Кулон вампира
+_
+Этот кулон, обработанный темной магией, позволяет своему владельцу вытягивать жизненную силу из умерших неподалеку существ. 
+_
+~ Восстанавливает здоровье персонажа, если неподалеку убиты монстры 
+~ Восстанавливает здоровье только в случае неактивности персонажа 
+~ Каждый убитый монстр восстанавливает 1 единицу жизни
+ 
+}
+
+item_desc_blue_gem
+{
+Синий волшебный камень
+ 
+_
+Синий волшебный камень – очень мощный предмет, нередко используемый могущественными волшебниками. 
+_
+~ Увеличивает количество ящиков на 1 (Волшебник) 
+~ Увеличивает количество стрел, выпускаемых из обычного лука на 1 (Воровка)
+}
+
+item_desc_red_gem
+{
+Красный волшебный камень
+ 
+_
+Красный волшебный камень – очень мощный предмет, нередко используемый могущественными волшебниками. 
+_
+~ Увеличивает количество досок на 1 (Волшебник) 
+~ Увеличивает максимальный уровень здоровья на 10% (Рыцарь)
+}
+
+item_desc_music_box1
+{
+Музыкальная шкатулка
+_
+Увеличивает максимальное количество ящиков, которое волшебник способен поддерживать одновременно – на 2. Эффект от шкатулки и синего волшебного камня может суммироваться.
+}
+
+item_desc_crown
+{
+Корона Гендальфа
+_
+Увеличивает максимальное количество досок, которое волшебник способен поддерживать одновременно – на 2. Эффект от шкатулки и синего волшебного камня может суммироваться.
+}
+
+item_desc_pendant_g
+{
+Кулон Стража
+_
+Этот могущественный кулон был создан одним из Стражей. 
+_
+~ Увеличивает максимальную энергию на 15 
+~ Складывается с другими улучшениями энергии
+}
+
+item_desc_amulet_k
+{
+Амулет королей
+_
+Этот могущественный амулет на протяжении веков защищал правителей королевства, переходя из поколения в поколение.  
+_
+~ Увеличивает максимальный уровень здоровья на 15 
+~ Складывается с другими улучшениями здоровья
+ 
+}
+
+
+
+// Locales added after first LocKit delivery
+
+// General for GUI stuff
+
+gui_general_ok = Ок
+gui_general_yes = Да
+gui_general_no = Нет
+gui_general_confirm = Подтвердить
+
+// Main menu
+gui_mm_load_game = Выбор уровня
+
+// Misc hints
+mischints_checkpoint_reached = Вы впервые добрались до контрольной точки. Контрольные точки воскрешают мертвых персонажей и активируются автоматически, когда вы до них добираетесь.
+
+// Pause menu
+gui_pausemenu_title = - Игра приостановлена -
+gui_pausemenu_resume_game = Вернуться к игре
+gui_pausemenu_returntolastcheck = Вернуться к последней контрольной точке
+gui_pausemenu_returntolastcheck_confirm_title = Вы действительно хотите вернуться к последней контрольной точке?
+
+gui_pausemenu_options = Настройки
+gui_pausemenu_leave2ndplayer = 2-ой участник покидает игру
+gui_pausemenu_leave3rdplayer = 3-ий участник покидает игру
+gui_pausemenu_quittomainmenu = Выйти в главное меню
+gui_pausemenu_confirm_title = Вы действительно хотите выйти в главное меню?
+
+// Game Over menu
+gui_gameovermenu_continue = Продолжить с последней контрольной точки
+gui_gameovermenu_quittomainmenu = Выйти в главное меню
+gui_gameovermenu_confirm_title = Вы действительно хотите выйти в главное меню?
+
+// Menu system
+gui_newgamemenu_overwrite_changes = Перезаписать ранее сохраненную игру?
+
+// yes and no found at the end
+
+// Game Controller info menu
+gui_gamecontrollerinfo_player_1 = Иг1
+gui_gamecontrollerinfo_player_2 = Иг2
+gui_gamecontrollerinfo_player_3 = Иг3
+gui_gamecontrollerinfo_wir_dis_title = Беспроводной манипулятор отключен
+gui_gamecontrollerinfo_wir_dis_info = Пожалуйста, подключите манипулятор, чтобы продолжить игру
+gui_gamecontrollerinfo_wir_dis_continue = Продолжить игру
+gui_gamecontrollerinfo_low_bat_title = В беспроводном манипуляторе садится батарея
+gui_gamecontrollerinfo_low_bat_info = Пожалуйста, зарядите батарею своего манипулятора, чтобы продолжить игру
+gui_gamecontrollerinfo_low_bat_continue = Продолжить игру
+
+// ------------------------------------------------------------------
+
+// System info
+gui_loadgamemenu_loadingtext_text = Загружаем сохраненную информацию...
+gui_unlocking_trophy = Открываем награды...
+gui_saving_game = Сохраняем игру...
+
+// PS3 save data (for system software)
+gui_savegame_title = Сохраненные игры Trine
+gui_savegame_subtitle_slot_1 = Ячейка 1
+gui_savegame_subtitle_slot_2 = Ячейка 2
+gui_savegame_subtitle_slot_3 = Ячейка 3
+
+// PS3 options data (for system software)
+gui_optiondata_title = Настройки Trine
+gui_optiondata_subtitle = 
+
+// HDD space
+gui_not_enough_space1 = Недостаточно свободного места на жестком диске. Для запуска игры необходимо как минимум
+gui_not_enough_space2 = Мб свободного места. Выйдите из игры и освободите необходимый объем места на ЖД.
+gui_save_failed_retry = Не удалось сохранить игру. Попробовать еще раз?
+
+// ------------------------------------------------------------------
+// Inventory menu
+
+gui_inv_upgrade_cost = Цена:
+gui_inv_upgrade_current_level = Уровень:
+gui_inv_upgrade = Улучшить
+
+gui_inv_tips_0_text = Выбрать
+gui_inv_tips_1_text = Информация
+gui_inv_tips_2_text = 
+gui_inv_tips_3_text = Сменить персонажа
+gui_inv_tips_4_text = 
+gui_inv_tips_5_text = Выход
+
+// hints
+castle1_hint_bow = Выстрел из лука
+cemetery1_hint_plank = Нарисуйте линию
+mines1_hint_floating_platform = Нарисуйте треугольник
+knight_item_pickup = Подберите предмет
+knight_item_throw = Бросьте предмет
+knight_charge = В атаку!
+knight_secondary_attack = Задержите для альтернативной атаки
+gui_change_weapon = Смените оружие
+hint_trine_place_pedestal = Положите Трайн на пьедестал
+hint_trine_place_pedestal2 = Используйте Трайн
+
+tutorial_hint_coop = Дополнительные участники смогут присоединиться к игре после обучения 
+
+hint_item_pendant_h_pickup = Найден «КУЛОН ВАМПИРА»
+hint_item_music_box1_pickup = Найдена «МУЗЫКАЛЬНАЯ ШКАТУЛКА»
+hint_item_crown_pickup = Найдена «КОРОНА ГЕНДАЛЬФА»
+hint_item_pendant_g_pickup = Найден «КУЛОН СТРАЖА»
+hint_item_amulet_k_pickup = Найден «АМУЛЕТ КОРОЛЕЙ»
+hint_item_bow_power_pickup = Найден «КОЛЧАН СКОРОСТИ» для воровки.
+
+gui_upgrade_available_level_up_text = Новый уровень
+
+// ---------------
+
+// level best times
+
+gui_loadgamemenu_level_locked = недоступно
+gui_loadgamemenu_level_time_none = -
+
+gui_loadgamemenu_level_info_checkpoints = Контрольные точки
+gui_loadgamemenu_level_info_secrets = Предметы
+gui_loadgamemenu_level_info_easybest = Рекорд (легкий уровень)
+gui_loadgamemenu_level_info_mediumbest = Рекорд (нормальный уровень)
+gui_loadgamemenu_level_info_hardbest = Рекорд (сложный уровень)
+gui_loadgamemenu_level_info_veryhardbest = Рекорд (очень сложный уровень)
+gui_loadgamemenu_level_info_current_difficulty = Текущий уровень сложности
+
+gui_loadgamemenu_best_times = Рекордное время
+
+// ---------
+
+// New hints
+
+hint_item_resur_vial_h_info = Пузырек здоровья увеличил ваше здоровье на 25%. Восполните его на контрольной точке.
+hint_item_resur_vial_e_info = Пузырек энергии увеличил вашу энергию на 30%. Восполните ее на контрольной точке.
+hint_item_resur_gem_use_info = Сила стразика воскрешения исчерпана. Она восстановится по окончании уровня.
+
+hint_levelup = Вы достигли нового уровня!
+hint_inventory_ps3 = Открыть рюкзак
+hint_inventory_pc = Открыть рюкзак (по умолчанию: i)
+hint_inventory_pc_alt = Нажмите на кнопку меню "Рюкзак" (по умолчанию: i) чтобы открыть окно рюкзака
+
+hint_rotate_objects = Повернуть левитируемый предмет
+
+tutorial_inventory = Вы достигли нового уровня. Откройте окно рюкзака и распределите очки навыков.
+
+// Inventory
+gui_inv_item_desc_cant_close_inventory
+{
+_
+Пожалуйста, убедитесь, что каждый игрок управляет своим персонажем и что эти персонажи не мертвы.
+}
+
+gui_inv_item_desc_not_enough_skill_points
+{
+_
+Недостаточно очков навыков для улучшения.
+}
+
+
+// Options menu
+
+gui_optionsmenu_change_save_slot = Изменить ячейку сохраненной игры...
+gui_optionsmenu_change_difficulty = Изменить уровень сложности...
+gui_optionsmenu_audio = Настройки звука...
+
+gui_changesaveslotmenu_save_slot = Ячейка сохранения игры
+gui_changesaveslotmenu_save_slot_empty = - пусто -
+gui_changesaveslotmenu_current = Текущая ячейка сохранения игры:
+
+gui_optionsmenu_gammatext = Яркость
+
+gui_optionsmenu_on = Вкл.
+gui_optionsmenu_off = Выкл.
+
+
+gui_optionsmenu_change_controller_ps3_use_vibra = Вибрация
+gui_optionsmenu_change_controller_ps3_use_sixaxis = Датчик перемещения
+
+// Official Sony terms:
+//English - Motion sensor function
+//French - Fonction de détection de mouvements
+//Italian - Funzione di sensibilità al movimento
+//German – Bewegungssensor-Funktion
+//Spanish – Función de sensor de movimiento
+//Portuguese - Função de sensor de movimento
+//Dutch - Bewegingssensor
+//Russian - датчик перемещения
+
+
+// Game Over menu
+gui_gameovermenu_continue_restrat_level = Перезагрузить уровень
+
+// LoadGameMenu
+gui_loadgamemenu_level_info_shards = Опыт (уровень)
+gui_loadgamemenu_level_info_shards_enemies = Опыт (враги)
+
+gui_changedifficultymenu_gamemode_locked = - закрыто -
+gui_changedifficultymenu_current = Сложность:
+gui_loadgamemenu_change_difficulty_text = Изменить уровень сложности...
+
+// Controller configuration
+gui_optionsmenu_change_controller_configuration = Настройка манипулятора...
+gui_optionsmenu_change_controller_title = Настройка манипулятора
+gui_optionsmenu_change_controller_pl1 = Игр1
+gui_optionsmenu_change_controller_pl2 = Игр2
+gui_optionsmenu_change_controller_pl3 = Игр3
+gui_optionsmenu_change_controller_disabled = Отключено
+gui_optionsmenu_change_controller_kb_mouse = Мышь/Клавиатура
+gui_optionsmenu_change_controller_not_enough = Нет манипулятора
+
+// safety
+gui_optionsmenu_change_controller_no_detected = Манипуляторы не обнаружены
+
+// HACKED "controller profile" names (for pc review build)
+gui_optionsmenu_change_controller_joystick1 = Манипулятор (1)
+gui_optionsmenu_change_controller_joystick2 = Манипулятор (2)
+gui_optionsmenu_change_controller_joystick3 = Манипулятор (3)
+gui_optionsmenu_change_controller_joystick4 = Манипулятор (4)
+
+// complete
+hint_gamecomplete = Игра пройдена!
+hint_congratulations = Поздравляем!
+hint_complete_secrets1 = Вы обнаружили
+hint_complete_secrets2 = спрятанных вещей.
+
+
+// ---------------------------
+// COPY FROM ORIGINAL FILES, don't translate
+// ---------------------------
+
+// copy from original files
+gui_changedifficultymenu_gamemode_0 = $(gui_optionsmenu_text_easy)
+gui_changedifficultymenu_gamemode_1 = $(gui_optionsmenu_text_normal)
+gui_changedifficultymenu_gamemode_2 = $(gui_optionsmenu_text_hard)
+gui_changedifficultymenu_gamemode_3 = $(gui_optionsmenu_text_very_hard)
+
+// all confirms:
+gui_changesaveslotmenu_select = $(gui_general_confirm)
+gui_changedifficultymenu_select = $(gui_general_confirm)
+gui_lgm_load = $(gui_general_confirm)
+gui_optionsmenu_change_controller_select = $(gui_general_confirm)
+
+// options menu
+gui_optionsmenu_text_sound_ambient = $(gui_optionsmenu_text_ambient)
+
+// yes and no confirms for menu stuff
+gui_pausemenu_returntolastcheck_confirm_ok = $(gui_general_yes)
+gui_pausemenu_returntolastcheck_confirm_cancel = $(gui_general_no)
+gui_pausemenu_confirm_ok = $(gui_general_yes)
+gui_pausemenu_confirm_cancel = $(gui_general_no)
+gui_gameovermenu_confirm_ok = $(gui_general_yes)
+gui_gameovermenu_confirm_cancel = $(gui_general_no)
+gui_newgamemenu_overwrite_confirm = $(gui_general_yes)
+gui_newgamemenu_overwrite_cancel = $(gui_general_no)
+
+
+

@@ -1,0 +1,222 @@
+﻿// put modifications here if you want to override common locales
+
+
+
+cinematic_screen_tutorial1_intro_textarea_0_textqueue
+{
+wait 1
+wait 300
+wait, "$(intro_01_narrator_once_upon_a)",speechfile:data/audio/sound/vocals/$$/intro_01_narrator_once_upon_a.wav
+wait 200
+wait, ""
+wait 30
+wait,"$(intro_02_narrator_but_peace_would)",speechfile:data/audio/sound/vocals/$$/intro_02_narrator_but_peace_would.wav
+wait 80
+wait, ""
+wait 30
+wait, "$(intro_03_narrator_the_old_king)",speechfile:data/audio/sound/vocals/$$/intro_03_narrator_the_old_king.wav
+wait 80
+wait, ""
+wait 30
+wait, "$(intro_04_narrator_lust_for_power)",speechfile:data/audio/sound/vocals/$$/intro_04_narrator_lust_for_power.wav
+wait 80
+wait, ""
+wait 30
+wait, "$(intro_05_narrator_but_the_madness)",speechfile:data/audio/sound/vocals/$$/intro_05_narrator_but_the_madness.wav
+wait 80
+wait, ""
+wait 30
+wait, "$(intro_06_narrator_the_magic_that)",speechfile:data/audio/sound/vocals/$$/intro_06_narrator_the_magic_that.wav
+wait 80
+wait, "$(intro_07_narrator_had_transformed_into)",speechfile:data/audio/sound/vocals/$$/intro_07_narrator_had_transformed_into.wav
+wait 80
+wait, ""
+wait 30
+wait, "$(intro_08_narrator_one_by_one)",speechfile:data/audio/sound/vocals/$$/intro_08_narrator_one_by_one.wav
+wait 80
+wait, ""
+wait 30
+wait, "$(intro_09_narrator_fear_spread_throughout)",speechfile:data/audio/sound/vocals/$$/intro_09_narrator_fear_spread_throughout.wav
+wait 80
+wait, ""
+wait 30
+wait, "$(intro_10_narrator_but_something_was)",speechfile:data/audio/sound/vocals/$$/intro_10_narrator_but_something_was.wav
+wait 50
+wait, ""
+//0, ""
+//500, "$(intro_01_narrator_once_upon_a)",speechfile:data/audio/sound/vocals/$$/intro_01_narrator_once_upon_a.wav
+//8000, "$(intro_02_narrator_but_peace_would)",speechfile:data/audio/sound/vocals/$$/intro_02_narrator_but_peace_would.wav
+//13000, "$(intro_03_narrator_the_old_king)",speechfile:data/audio/sound/vocals/$$/intro_03_narrator_the_old_king.wav
+//20500, "$(intro_04_narrator_lust_for_power)",speechfile:data/audio/sound/vocals/$$/intro_04_narrator_lust_for_power.wav
+//29500, "$(intro_05_narrator_but_the_madness)",speechfile:data/audio/sound/vocals/$$/intro_05_narrator_but_the_madness.wav
+//36000, "$(intro_06_narrator_the_magic_that)",speechfile:data/audio/sound/vocals/$$/intro_06_narrator_the_magic_that.wav
+//39700, "$(intro_07_narrator_had_transformed_into)",speechfile:data/audio/sound/vocals/$$/intro_07_narrator_had_transformed_into.wav
+//44000, "$(intro_08_narrator_one_by_one)",speechfile:data/audio/sound/vocals/$$/intro_08_narrator_one_by_one.wav
+//54300, "$(intro_09_narrator_fear_spread_throughout)",speechfile:data/audio/sound/vocals/$$/intro_09_narrator_fear_spread_throughout.wav
+//60000, "$(intro_10_narrator_but_something_was)",speechfile:data/audio/sound/vocals/$$/intro_10_narrator_but_something_was.wav
+//65000, ""
+}
+
+
+cinematic_screen_tutorial1_trine_thief_textarea_0_textqueue
+{
+  wait 1000
+ wait, "$(tutorial1_05_narrator_as_the_thief)",speechfile:data/audio/sound/vocals/$$/tutorial1_05_narrator_as_the_thief.wav
+ wait 800 
+ wait, "$(tutorial1_06_narrator_the_thief_would)",speechfile:data/audio/sound/vocals/$$/tutorial1_06_narrator_the_thief_would.wav
+ wait 400
+ wait, ""
+}
+
+
+cinematic_screen_tutorial1_trine_wizard_textarea_0_textqueue
+{
+  wait 1000
+  wait, "$(tutorial1_14_wizard_my_darling_why)",speechfile:data/audio/sound/vocals/$$/tutorial1_14_wizard_my_darling_why.wav
+  wait 800
+  wait, "$(tutorial1_15_narrator_the_wizard_touched)",speechfile:data/audio/sound/vocals/$$/tutorial1_15_narrator_the_wizard_touched.wav
+  wait 400
+  wait, "$(tutorial1_16_wizard_what_kind_of)",speechfile:data/audio/sound/vocals/$$/tutorial1_16_wizard_what_kind_of.wav
+  wait 500
+  wait, "$(tutorial1_17_narrator_for_once_the)",speechfile:data/audio/sound/vocals/$$/tutorial1_17_narrator_for_once_the.wav
+  wait 500
+  wait, ""
+}
+
+
+cinematic_screen_tutorial1_trine_knight_textarea_0_textqueue
+{
+ wait 1200
+ wait, "$(tutorial1_27_knight_whats_this)",speechfile:data/audio/sound/vocals/$$/tutorial1_27_knight_whats_this.wav
+ wait 600
+ wait, "$(tutorial1_28_narrator_the_knight_joined)",speechfile:data/audio/sound/vocals/$$/tutorial1_28_narrator_the_knight_joined.wav
+ wait 1000
+ wait, "$(tutorial1_29_wizard_oh_no_this)",speechfile:data/audio/sound/vocals/$$/tutorial1_29_wizard_oh_no_this.wav
+ wait 500
+ wait, "$(tutorial1_30_knight_not_what)",speechfile:data/audio/sound/vocals/$$/tutorial1_30_knight_not_what.wav
+ wait 1200
+ wait, "$(tutorial1_31_narrator_there_was_a)",speechfile:data/audio/sound/vocals/$$/tutorial1_31_narrator_there_was_a.wav
+ wait 500
+ wait, ""
+}
+
+
+
+cinematic_screen_bossarea_outro_cine_textarea_0_textqueue
+{
+wait 1
+wait 1000
+wait, "$(outro_01_narrator_as_the_evil)",speechfile:data/audio/sound/vocals/$$/outro_01_narrator_as_the_evil.wav
+wait 1
+wait 1000
+wait, ""
+wait 1
+wait 1000
+wait, "$(outro_02_narrator_the_artifacts_slowly)",speechfile:data/audio/sound/vocals/$$/outro_02_narrator_the_artifacts_slowly.wav
+wait 1
+wait 1000
+wait, ""
+wait 500
+wait, "$(outro_03_narrator_in_the_spring)",speechfile:data/audio/sound/vocals/$$/outro_03_narrator_in_the_spring.wav
+wait 1
+wait 1000
+wait, ""
+wait 500
+wait, "$(outro_04_narrator_the_new_king_2)",delay: 7350
+wait, "$(outro_04_narrator_the_new_king_1)",speechfile:data/audio/sound/vocals/$$/outro_04_narrator_the_new_king.wav
+wait 1
+wait 1000
+wait, ""
+wait 500
+wait, "$(outro_05_narrator_the_thief_was_2)",delay: 11450
+wait, "$(outro_05_narrator_the_thief_was_1)",speechfile:data/audio/sound/vocals/$$/outro_05_narrator_the_thief_was.wav
+wait 1
+wait 200
+wait, ""
+wait 100
+wait, "$(outro_06_narrator_as_for_the_2)",delay: 10450
+wait, "$(outro_06_narrator_as_for_the_1)",speechfile:data/audio/sound/vocals/$$/outro_06_narrator_as_for_the.wav
+wait 1
+wait 200
+wait, ""
+wait 100
+wait, "$(outro_07_narrator_a_few_years)",speechfile:data/audio/sound/vocals/$$/outro_07_narrator_a_few_years.wav
+wait 1
+wait 150
+wait, ""
+wait 50
+wait, "$(outro_08_narrator_we_also_do)",speechfile:data/audio/sound/vocals/$$/outro_08_narrator_we_also_do.wav
+wait 1
+wait 200
+wait, ""
+wait 700
+wait, "$(outro_09_narrator_but_despite_everything)",speechfile:data/audio/sound/vocals/$$/outro_09_narrator_but_despite_everything.wav
+wait 1
+wait 250
+wait, ""
+}
+
+
+gui_changesaveslotmenu_slotbutton_x = 135
+gui_changesaveslotmenu_slotbutton_w = 250
+gui_changesaveslotmenu_info_x = 460
+gui_changesaveslotmenu_info_second_x = 665
+
+
+gui_loadgamemenu_button_x = 155
+// 210
+gui_loadgamemenu_button_y = 95
+gui_loadgamemenu_button_w = 250
+gui_loadgamemenu_button_h = 37
+
+gui_loadgamemenu_desc_x_add = 45
+// 30
+
+gui_loadgamemenu_level_info_x = 520
+// 550
+gui_loadgamemenu_level_info_y = 95
+gui_loadgamemenu_level_info_w = 100
+gui_loadgamemenu_level_info_h = 37
+gui_loadgamemenu_level_info_add_x = 0
+gui_loadgamemenu_level_info_add_y = 37
+gui_loadgamemenu_level_info_second_x = 820
+// 729
+gui_loadgamemenu_level_info_second_w = 50
+
+gui_optionsmenu_second_column_offset = 220
+// 190
+
+gui_changecontrollercfgmenu_player_profile_button_x = 645
+// 555
+
+// customize controls changes
+gui_customizecontrolsmenu_navi_position_x = 550
+gui_customizecontrolsmenu_navi_position_y = 650
+// 600
+gui_customizecontrolsmenu_navi_spacing_y = 40
+
+// Binds table
+gui_customizecontrolsmenu_binds_first_x = 20
+// 70
+gui_customizecontrolsmenu_binds_second_x = 300
+// 280
+gui_customizecontrolsmenu_binds_third_x = 450
+// 390
+
+// Profiles list
+gui_customizecontrolsmenu_profiles_x = 580
+// 550
+
+
+
+// patch 107 add
+
+
+extra1_header_text = Дорога к новой заре
+gui_mission_name_extra1 = Дорога к новой заре
+gui_unlocked_extra = Открыта Дорога к новой заре
+
+
+
+
+

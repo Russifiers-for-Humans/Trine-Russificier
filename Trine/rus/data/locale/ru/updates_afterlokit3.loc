@@ -1,0 +1,54 @@
+﻿// if locales are added after the first Localization Kit delivery and the first and second updates, add them here.
+// but we really should consider NOT adding anything anymore
+
+
+
+// Updates after LocKit update2
+// options stuff
+gui_misc_language_subtitle = Язык субтитров
+gui_misc_language_audio = Язык озвучки
+
+gui_changecontrollercfgmenu_customize = Настроить управление
+gui_customizecontrolsmenu_keyboard = Мышь/клавиатура
+gui_customizecontrolsmenu_joystick = Геймпад
+
+gui_customizecontrolsmenu_previous_page = Назад
+gui_customizecontrolsmenu_next_page = Дальше
+
+gui_customizecontrolsmenu_navi_save_text = Сохранить изменения
+gui_customizecontrolsmenu_navi_back_text = Назад
+
+gui_customizecontrolsmenu_page_name_0 = Оси
+gui_customizecontrolsmenu_page_name_1 = Общее управление
+gui_customizecontrolsmenu_page_name_2 = Меню
+gui_customizecontrolsmenu_page_name_3 = Волшебник
+gui_customizecontrolsmenu_page_name_4 = Воровка
+gui_customizecontrolsmenu_page_name_5 = Рыцарь
+
+gui_customizecontrolsmenu_config_default = Настройки по умолчанию
+gui_customizecontrolsmenu_config_custom = Пользовательские настройки
+
+gui_customizecontrolsmenu_tip = Щелкните левой кнопкой мыши, чтобы изменить, правой - чтобы очистить
+
+gui_customizecontrolsmenu_change = _
+
+gui_gameovermenu_change_difficulty = Сложность
+gui_gameovermenu_changedifandrestart = $(gui_gameovermenu_change_difficulty) &  $(gui_gameovermenu_continue_restrat_level)
+
+gui_customizecontrolsmenu_joystick_x_axis_sensitivity = $(gui_optionsmenu_joystick_x_axis) sensitivity
+gui_customizecontrolsmenu_joystick_y_axis_sensitivity = $(gui_optionsmenu_joystick_y_axis) sensitivity
+
+
+// experience shards to vials
+
+picked_up_health = Подобрано здоровье
+picked_up_large_health = Подобрано много здоровья
+picked_up_health_potion = Подобрано зелье здоровья
+picked_up_full_health_potion = Подобрано зелье полного здоровья
+picked_up_energy = Подобран пузырек энергии
+picked_up_large_energy = Подобран большой пузырек энергии
+picked_up_full_energy_potion = Подобран пузырек полной энергии
+picked_up_experience_shard = Получена единица опыта
+
+
+

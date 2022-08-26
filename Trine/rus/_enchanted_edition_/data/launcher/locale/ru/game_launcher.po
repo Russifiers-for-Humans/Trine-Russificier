@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.8.11\n"
+
+msgid "Trine Launcher"
+msgstr "Программа запуска Trine"
+
+msgid "Language:"
+msgstr "Язык:"
+
+msgid "Screen resolution and refresh rate:"
+msgstr "Разрешение и частота экрана:"
+
+msgid "Anti-aliasing:"
+msgstr "Сглаживание:"
+
+msgid "Graphics detail level:"
+msgstr "Уровень деталей:"
+
+msgid "Start Trine"
+msgstr "Запустить игру"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Vertical sync:"
+msgstr "Верт. синхронизация:"
+
+msgid "On"
+msgstr "Вкл."
+
+msgid "Off"
+msgstr "Откл."
+
+msgid "Automatic"
+msgstr "Автоматически"
+
+msgid "Run in Window"
+msgstr "Оконный режим"
+
+msgid "(Custom)"
+msgstr "(Пользоват.)"
+
+msgid "Very High"
+msgstr "Очень высоко"
+
+msgid "High"
+msgstr "Высоко"
+
+msgid "Medium"
+msgstr "Средне"
+
+msgid "Low"
+msgstr "Низко"
+
+msgid "Very Low"
+msgstr "Очень низко"
+
+msgid "Very High (FXAA + 3xSSAA)"
+msgstr "Оч. высоко (FXAA + 3xSSAA)"
+
+msgid "High (FXAA + 2xSSAA)"
+msgstr "Высоко (FXAA + 2xSSAA)"
+
+msgid "Medium (FXAA)"
+msgstr "Средне (FXAA)"
+
+msgid "Extreme (FXAA + 4xSSAA)"
+msgstr "Экстрим (FXAA + 4xSSAA)"
+
+msgid "Performance warning"
+msgstr "Предупреждение!"
+
+msgid "Please note, this setting is very demanding on the system!"
+msgstr ""
+"Обратите внимание, что эта опция требует очень высокой производительности "
+"системы!"
+
+msgid "The framerate may drop to unplayable."
+msgstr "Частота кадров может упасть до неиграбельных значений."
+
+msgid ""
+"For more information, please read the Trine FAQ at http://www.trine-thegame."
+"com/"
+msgstr ""
+"Дополнительную информацию вы найдете на сайте http://www.trine-thegame.com/"
+
+msgid "Stereoscopic 3D mode:"
+msgstr "Стереоскопический 3D-режим:"
+
+msgid "Game type:"
+msgstr "Версия игры:"
+
+msgid "Trine Enchanted Edition"
+msgstr "Trine Enchanted Edition"
+
+msgid "Trine original"
+msgstr "Trine - Оригинальная версия"
+
+msgid "Start "
+msgstr "Запуск "
+
+msgid "Trine Enchanted Edition Launcher"
+msgstr "Программа запуска Trine Enchanted Edition"
+
+msgid "Start Editor"
+msgstr "Запуск редактора"
+
+msgid "Mods"
+msgstr "Моды"

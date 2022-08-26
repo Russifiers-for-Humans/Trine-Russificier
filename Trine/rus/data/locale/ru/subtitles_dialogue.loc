@@ -1,0 +1,536 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+intro_01_narrator_once_upon_a = Давным-давно в далеких-предалеких землях стояло процветающее королевство.
+intro_01b_narrator_once_upon_a = Давным-давно в далеких-предалеких землях стояло процветающее королевство. Люди там жили в гармонии с природой.
+intro_02_narrator_but_peace_would = Но спокойная жизнь не могла длиться вечно.
+intro_03_narrator_the_old_king = Со смертью старого короля, так и не оставившего наследника, королевство погрузилось в хаос.
+intro_04_narrator_lust_for_power = Жажда власти в равной степени ослепила воинов и волшебников. Новые короли возвышались и погибали ежедневно.
+intro_05_narrator_but_the_madness = Но безумие людей вскоре оказалось в тени куда большего зла.
+intro_06_narrator_the_magic_that = Магия, когда-то приносившая жизнь и удачу...
+intro_07_narrator_had_transformed_into = ...превратилась в нечто зловещее.
+intro_08_narrator_one_by_one = Один за другим, могила за могилой, начали оживать мертвые, повинуясь энергии, что росла и крепла с каждой новой ночью.
+intro_09_narrator_fear_spread_throughout = Цепи ужаса сковали королевство, и вскоре жители покинули его.
+intro_10_narrator_but_something_was = Но... события, которым было суждено изменить ход истории, уже начались.
+
+// LOADING SCREEN - ASTRAL ACADEMY 
+tutorial1_01_narrator_on_the_outskirts = На задворках королевства, неподалеку от Астральной Академии, воровка претворяла в жизнь свой хитроумный план. Она узнала о древнем предмете огромной ценности. В Астральной Академии, оставшейся лицом к лицу с ужасным врагом, не было никого, кто мог бы защитить сокровище. Время было выбрано верно.
+
+// GAMEPLAY STARTS 
+tutorial1_02_narrator_everything_was_perfect = Все шло как по маслу. Она добралась до замка, и вскоре в ее руках окажется так сильно желаемое сокровище.
+tutorial1_03_narrator_the_gentle_moon = Луна ласково улыбалась, глядя как воровка пробирается в святыню древнего сокровища. Странно, но даже защитные амулеты вокруг святилища пропустили ее, не причинив вреда.
+tutorial1_04_thief_i_got_it = Вот оно!
+tutorial1_05_narrator_as_the_thief = Дотронувшись до сокровища, воровка ощутила странное покалывание.
+tutorial1_06_narrator_the_thief_would = Вскоре она поймет, что это было прикосновение самой судьбы.
+
+tutorial1_07_narrator_unknown_to_the = Неизвестный воровке волшебник как раз проснулся. Взглянув в подзорную трубу, он увидел ужасную армию нежити. Умирать ему очень не хотелось.
+tutorial1_07b_narrator_he_had_been = Он изучал звезды и очень старался выучить заклинание огненного шара, которое должен знать каждый волшебник.
+tutorial1_07_narrator_unknown_to_the_orig = Неизвестный воровке волшебник как раз проснулся. Он изучал звезды и очень старался выучить заклинание огненного шара, которое должен знать каждый волшебник.
+tutorial1_08_narrator_of_course_that = Конечно, все было не так. Видите ли, волшебник имел определенную известность у женщин. И на самом деле занимался созданием зелья липового огненного шара, которое бы произвело впечатление на дам. Но зелье, взорвавшись, вызвало лишь двухнедельный сон.
+tutorial1_09_narrator_having_regained_consciousness = Придя в себя, волшебник поглядел в подзорную трубу и увидел ужасную армию нежити. Умирать не хотелось. Хотелось убраться отсюда подальше.
+tutorial1_10_wizard_by_my_trousers = Клянусь своими штанами, надо убираться отсюда!
+
+tutorial1_11_narrator_the_wizard_saw = Волшебник заметил сияющий свет, исходивший от святилища. Веками никто не входил туда – вход охраняла древняя магия, защищавшая нечто, лежавшее внутри.
+
+tutorial1_12_wizard_oh_no_are = О, нет! Неужели они уже здесь? Не может быть... Кто... Кто здесь?
+tutorial1_13_wizard_oh = О...
+tutorial1_14_wizard_my_darling_why = Скажите, красавица, откуда столько боли на Вашем прекрасном лице? И что это Вы держите? Как Вы сюда попали?
+tutorial1_15_narrator_the_wizard_touched = Волшебник дотронулся до руки воровки, затем до предмета. Его рука прилипла.
+tutorial1_16_wizard_what_kind_of = Что?.. Что это еще за фокусы?!
+tutorial1_17_narrator_for_once_the = На этот раз магия заинтересовала волшебника больше, чем что-либо еще. Кроме, разве что, страха за свою жизнь. А вот кое-кто неподалеку был только рад испытаниям.
+
+tutorial1_18_narrator_at_the_other = На другой стороне Академии рыцарь оттачивал свои навыки, чтобы сразиться с нежитью и доказать, что он достоин вступить в ряды королевской армии. Между нами, он не вполне понимал значение слова «нежить», зато это был шанс стать храбрейшим из воинов.
+tutorial1_19_narrator_the_knight_felt = Рыцарь чувствовал, что в это тяжкое время его долг - защита Академии. Он высматривал что-либо необычное.
+tutorial1_20_narrator_his_stomach_rumbled = Его желудок недовольно урчал, требуя мяса. Рыцарь не кушал уже целых полчаса...
+tutorial1_21a_knight_hah_what_is = Хм...
+tutorial1_21b_knight_hah_what_is = Ай! Че такое?..
+tutorial1_21c_knight_hah_what_is = Э-э-э... А че ваще?!.
+tutorial1_22_narrator_the_knight_saw = Рыцарь заметил слабое сияние, исходящее от древнего святилища.
+tutorial1_23_narrator_could_there_be = Что это? Вор? И сегодня - день славы для рыцаря? Он дал клятву - себе - защитить Академию и святилище.
+tutorial1_24_knight_stay_where_you = Стоять!
+tutorial1_25_knight_dont_move = А ну не двигаться!
+tutorial1_26_narrator_as_the_knight = Подойдя ближе, рыцарь различил силуэт волшебника и незнакомую фигуру, склонившуюся над странно выглядящим предметом.
+tutorial1_27_knight_whats_this = Че тут вообще такое?!
+tutorial1_28_narrator_the_knight_joined = Рыцарь подошел и крепко схватил предмет с третьей стороны - так, как способен лишь могучий воин.
+
+tutorial1_29_wizard_oh_no_this = О, нет. Это не сулит нам ничего хорошего.
+tutorial1_30_knight_not_what2 = Нет? Че?
+tutorial1_30_knight_not_what = ...солить хорошее? Че ты сказал?
+tutorial1_31_narrator_there_was_a = Вспышка света озарила двор. Волшебник, воровка и рыцарь... просто исчезли.
+
+
+// LOADING SCREEN – ACADEMY COURTYARD 
+loadingscreen_castle1_01_our_new_heroes = Наших новых героев захватило действие загадочного предмета. Волшебник пытался припомнить все, что знал о святилище и хранившемся в нем предмете. Мысли его метались между древними сказаниями и легендами.
+loadingscreen_castle1_02_finally_the_wizard = Наконец волшебник вспомнил. Древнее сокровище было устройством, способным связывать души. Как именно оно работало, он не знал. Зато он знал, что оно было связано с легендой о Страже, чьи мирские останки были похоронены в катакомбах глубоко под Астральной Академией - гробница находилась прямо под святилищем.
+loadingscreen_castle1_03_the_wizard_could = Волшебник не мог объяснить, откуда, но он знал, что предмет называется Трайн.
+loadingscreen_castle1_04_the_knight_didnt = А рыцарю было все равно. Его беспокоили куда более важные вопросы....
+
+// GAMEPLAY STARTS 
+castle1_01_knight_its_all_her = Это она во всем виновата! Нам нужно это... арестовать ее! Она стырила сокровище короля!
+castle1_02_wizard_did_you_not = Ты хоть слово понял из того, что я сказал? Это не сокровище. Это древний предмет - Трайн. Я уверен, что он связал наши души. Мы скованы вместе!
+castle1_03_knight_but_it_she2 = Но... Она... Это... Э-э-э!..
+castle1_03_knight_but_it_she = Но она... Гхм!
+castle1_04_wizard_dont_worry_she = Не волнуйся, она связана с нами, хорошо это или плохо. Пока можно просто о ней не волноваться.
+castle1_05_narrator_the_thief_remained = Воровка продолжала молчать. Она ждала подходящего момента для бегства. В идеале – с сокровищем и без пары идиотов.
+castle1_06_wizard_now_we_have = Теперь нам нужно найти способ снять заклятие. Гробница Стража в катакомбах может хранить ответ на наши вопросы, и она не так уж далеко.
+castle1_07_wizard_hmm_i_think = Хмм... Думаю, я знаю, как мы сможем использовать это устройство для наших нужд...
+
+// NEW SCENE 
+castle1_08_wizard_oh_what_have = О, черт, во что же это я вляпался...
+castle1_09_knight_hahaa_im_not = Ха-ха! Я не боюсь злых костей!
+castle1_10_thief_they_dont_like = А мы им не нравимся.
+
+// NEW SCENE 
+castle1_11_thief_aha_this_looks = Ага, выглядит неплохо. Возможно, эта прогулка не так уж бесполезна.
+castle1_12_thief_lets_strike_a = Предлагаю сделку. Я помогу вам с поисками того, что вы там ищете. Взамен - забираю все побрякушки.
+castle1_13_wizard_i_must_say = Должен заметить, это ожерелье Вам очень идет. Договорились.
+castle1_14_knight_captain_bierhart_would = Капитан Пивобрюх этого не одобрил бы...
+
+
+// LOADING SCREEN – WOLVERCOTE CATACOMBS 
+courtyard1_loadingscreen_01_narrator_what_lay_ahead = Кто знает, что ждет наших героев впереди? Им больше не встречались ни мужчины, ни женщины, ни великовозрастные дети. Нежить изменила все вокруг. Зло окружало их со всех сторон.
+courtyard1_loadingscreen_02_narrator_but_our_heroes = Но наши герои были вынуждены поспешить. Они искали гробницу. Волшебник был уверен, что она принадлежит основателю Астральной Академии, одному из трех Стражей. Возможно, найдя гробницу, они отыскали бы и способ выбраться из Трайна.
+
+// GAMEPLAY STARTS 
+courtyard1_01_wizard_i_dont_like = Не нравится мне все это... О, храбрый Понтий, проложишь ли ты нам путь в неведомое? А я крепко... очень крепко... свяжу нашу пленницу.
+courtyard1_02_knight_aha_my_sword = Ага! Мой меч укажет нам дорогу! За мной!
+courtyard1_03_thief_oh_come_on = Ну хватит уже, держи руки при себе!
+courtyard1_04_wizard_sorry_my_darling = Простите, красавица. У меня не было времени, чтобы представиться. Я - Амадей Блистательный. А наш храбрый герой - Понтий Храбрый. А как нам звать Вас?
+courtyard1_05_thief_zoya = Зоя.
+courtyard1_06_wizard_thats_not_a = Это не местное имя. Вы, должно быть, из страны убийц.
+courtyard1_07_thief_perhaps_whats_it = Возможно. А тебе-то что?
+courtyard1_08_wizard_hmh_just_making = Гм. Да так, пытаюсь завязать разговор. Хм...
+
+// NEW SCENE 
+courtyard1_09_knight_look_at_that = Смотрите! Это, типа, гробница!
+courtyard1_10_wizard_yes_you_are = Верно! Это гробница Стража, здесь повсюду надписи всякие. Мне нужно время, чтобы их перевести...
+
+
+// LOADING SCREEN – DRAGON GRAVEYARD 
+loadingscreen_cemetery1_01_narrator_as_the_wizard = Читая надписи, волшебник узнавал все больше легенд об артефактах. Некогда было трое Стражей, каждый из которых охранял свой артефакт. Трайн был артефактом души и справедливости, катализатором сил добра, который незаметно помогал воспитывать добрых молодых волшебников в Астральной Академии.
+loadingscreen_cemetery1_02_narrator_the_two_remaining = Два других артефакта упоминались лишь парой слов. Второй артефакт, связанный с разумом и могуществом, хранился в огромном замке в центре королевства.
+loadingscreen_cemetery1_03_narrator_the_wizard_did = Волшебник не вполне понимал все, о чем рассказывали надписи - некоторые отрывки текста не сохранились. Но этого было достаточно. Их целью был замок, хранилище второго артефакта. Зловещие звуки эхом разносились по просторам: между героями и замком лежали широкие пустоши - Кладбище драконов.
+
+loadingscreen_cemetery1_04_narrator_our_heroes_journey = Путешествие привело наших героев на Кладбище драконов. Когда-то здесь был армейский лагерь, но теперь он брошен и захвачен нежитью, чья численность, похоже, растет в геометрической прогрессии. 
+
+// GAMEPLAY STARTS 
+cemetery1_01_wizard_it_all_makes = Теперь я понимаю! Наши души сплелись в этом артефакте, и наши физические сущности – всего лишь отражения нашей души!
+cemetery1_02_knight_mh_this_smell = М-м... Пахнет изумительно. Жареное мясо. Ммм... Люблю мясо!
+cemetery1_03_wizard_why_dont_you = Почему ты меня не слушаешь?.. Это же удивительно! Нам нужно поторопиться в замок.
+cemetery1_04_thief_and_this_is = Вот этим путем? Через Кладбище драконов? То есть, мы пойдем туда, где вместо мелких костей лежат большие. А если они оживут?
+cemetery1_05_wizard_its_the_fastest = Это кратчайший путь к замку, красавица. Поверьте мне.
+
+cemetery1_06_knight_im_hungry_i = Я хочу кушать... Я чую запах, но не могу найти мясо!
+
+
+// LOADING SCREEN – CRYSTAL CAVERNS 
+loadingscreen_crypt1_01_narrator_having_survived_the = Преодолев пустоши Кладбища драконов, наши герои продолжили свой путь. Волшебник погрузился в чтение записей о Стражах.
+loadingscreen_crypt1_02_narrator_there_had_once = Когда-то было три артефакта. Один для души и справедливости, один для разума и могущества и один для тела и сущности. Эти вечные предметы поддерживали баланс добра и зла в мире. Когда мир был в гармонии, артефакты были отданы трем Стражам, хранившим их долгие века.
+loadingscreen_crypt1_03_narrator_the_guardians_enchanted = Стражи защитили артефакты мощными заклинаниями, которые позволяли приблизиться лишь людям, чьи помыслы были чисты. Со временем Стражи исчезли и остались лишь заклинания.
+loadingscreen_crypt1_04_narrator_the_wizard_could = Волшебник все еще не мог найти ответ на вопрос, как они оказались связаны Трайном и как ухитрились невредимыми преодолеть защитные заклинания.
+
+// GAMEPLAY STARTS 
+crypt1_01_wizard_i_believe_it = Я уверен, что это именно Трайн позволяет нам воскрешать наши физические оболочки.
+crypt1_02_thief_you_think = С чего бы вдруг?
+crypt1_03_knight_i_want_something = Хочу кушать...
+
+
+// LOADING SCREEN – CRYPT OF THE DAMNED 
+loadingscreen_darkcrypt1_01_narrator_fear_had_found = Страх прочно угнездился в сердцах наших героев.
+loadingscreen_darkcrypt1_02_narrator_deeply_troubled_their = Мысли их понемногу становились все тягостнее. Рыцарь ничего не ел уже много часов, и запах мяса, конечно, не облегчал ему жизнь. Воровка начала беспокоиться – сможет ли она вновь вернуть себе свободу?
+loadingscreen_darkcrypt1_03_narrator_and_the_wizard = А волшебник... Конечно, боялся, что им никогда не удастся найти остальные артефакты и разорвать заклятие Трайна. Хотя, сказать по правде, он вовсе не возражал против компании, которая ухитрялась терпеть его больше часа.
+
+// GAMEPLAY STARTS 
+darkcrypt1_01_wizard_this_darkness_is = Эта темнота невыносима.
+darkcrypt1_02_thief_ive_seen_wizards = Я видела, волшебники зажигают факелы огненными шарами. Ты не мог бы?..
+darkcrypt1_03_wizard_fireballs_theyre_no = Ох уж эти огненные шары... Они плохо работают, и вообще – это пустая трата времени!
+darkcrypt1_04_thief_i_shouldve_known = Я должна была догадаться… Ну что ж, могу зажечь факелы огненными стрелами.
+darkcrypt1_05_knight_i_can_light = Я тоже могу зажечь!
+
+// NEW SCENE 
+darkcrypt1_06_knight_are_we_finally = Мы наконец дойдем куда-нибудь? Эта темнота – плохая штука.
+darkcrypt1_07_wizard_this_is_the = Это путь к замку. Мы уже близко к подземельям.
+darkcrypt1_08_knight_haa_the_castle = Ага! В замке должна быть еда! Вперед, в замок!
+
+
+
+// LOADING SCREEN – FORSAKEN DUNGEONS 
+loadingscreen_castle2_01_narrator_our_heroes_enter = Наши герои входят в замок через подземелья. Рыцарь погрузился в воспоминания о детских временах, когда темные коридоры таили в себе кучу загадок, пауки были маленькими, а кости – аккуратно сложены по углам.
+
+// GAMEPLAY STARTS 
+castle2_01_wizard_oh_this_place = Меня дрожь пробирает от этого места.
+castle2_02_thief_its_a_dungeon = Это подземелье. Именно так здесь и должно быть.
+castle2_03_knight_bones_bones_wheres = Кости, кости... А где мясо?!
+
+// NEW SCENE 
+castle2_04_wizard_a_page_from = Страница из дневника короля! Стоит прочитать...
+castle2_05_wizard_the_kings_banner = Королевское знамя... Символ выглядит точь-в-точь как артефакт, который мы ищем!
+
+
+// LOADING SCREEN – THRONE OF THE LOST KING 
+loadingscreen_castle3_01_narrator_the_second_artifact = Второй артефакт, тот, что связан с разумом и могуществом, защищал замок и придавал сил королю и его людям. Артефакт был защищен мощными заклятиями и только те, чьи помыслы чисты, могли прикоснуться к нему.
+loadingscreen_castle3_02_narrator_over_the_decades = Десятилетиями многие короли и рыцари пытались приблизиться к артефакту, но втуне. Легенды гласят о благородном и справедливом герое, который придет и сумеет взять артефакт. Но, подойдя к воротам, наши герои осознали, что нежить захватила замок целиком. Некогда прекрасное место превратилось в обитель ужаса.
+
+// GAMEPLAY STARTS 
+castle3_01_thief_this_doesnt_look = Как-то непохоже на замок, о котором вы говорили.
+castle3_02_wizard_no_i_cannot = Нет! Я не могу поверить!
+castle3_03_knight_they_have_ruined = Они разрушили... Разрушили все!
+castle3_04_wizard_we_must_hurry = Нужно поторопиться.
+
+// NEW SCENE 
+castle3_05_knight_look_bones_in = Смотрите! Кости. В куче.
+castle3_06_wizard_this_must_be = Это, должно быть, старый король.
+castle3_07_thief_whatevers_left_of = Вернее, то что от него осталось...
+castle3_08_wizard_the_artifact_must = Артефакт тела должен быть где-то здесь.
+castle3_09_thief_look_over_there = Посмотрите сюда, что это? Какая-то книга...
+castle3_10_wizard_yes_ill_have = Дай-ка я взгляну поближе...
+
+
+// LOADING SCREEN – FANGLE FOREST 
+loadingscreen_forest1_01_narrator_with_great_enthusiasm = С превеликим энтузиазмом волшебник углубился в изучение королевского дневника. Особенно интересными были последние страницы, где король рассказывал о древних развалинах, заброшенных давным-давно. Невероятно прекрасные статуи и архитектура поразили старого короля.
+loadingscreen_forest1_02_narrator_the_kings_journal = Королевский дневник почти не содержал информации об артефактах, но живые описание сходились со знаками в гробнице первого Стража. В легендах существовало место, которое Стражи звали своим домом. Если так оно и было, и развалины были местом происхождения артефактов, наши герои могли, наконец, получить кое-какие ответы. Местоположение развалин было тщательно указано в дневнике: в середине леса, довольно далеко. Наши герои решили последовать направлению, указанному в королевском дневнике.
+loadingscreen_forest1_03_narrator_at_the_edge = На краю леса воровка почувствовала что-то странное, какое-то теплое ощущение в сердце.
+
+// GAMEPLAY STARTS 
+forest1_01_wizard_we_have_a = Если мы хотим достигнуть развалин до наступления ночи, нам надо поторопиться.
+forest1_02_thief_its_so_calm = Здесь так тихо...
+forest1_03_knight_i_feel_like = Как будто бы гора с плеч свалилась.
+
+// LOADING SCREEN – SHADOWTHORN THICKET 
+loadingscreen_darkforest1_01_narrator_the_night_came = Ночь, любимое время сил зла, опустилась очень быстро. Неминуемое обязательно случится, это всего лишь вопрос времени; но пока еще лес стоял стеной против захватчиков. Возможно, потому что артефакты были созданы неподалеку. Надежда еще оставалась.
+
+// GAMEPLAY STARTS 
+
+// LOADING SCREEN – RUINS OF THE PERISHED 
+loadingscreen_forest2_01_narrator_finally_the_darkness = Наконец, тьма рассеялась, и наши герои с облегчением увидели вокруг себя свет. Воровка потихоньку изучала новое для себя окружение: она никогда не бывала здесь, но по необъяснимым причинам испытывала чувство духовной близости к этим местам...
+loadingscreen_forest2_02_narrator_the_ruins_of = Развалины Исчезнувших, как называл их старый король, выглядели именно так, как было описано в дневнике: красивые и величественные, несмотря на минувшие столетия. Третий артефакт, возможно, находится в верхней точке развалин.
+
+// GAMEPLAY STARTS 
+forest2_01_wizard_these_are_ancient = Развалины действительно древние... Не думаю, что за последние века кто-нибудь был здесь.
+forest2_02_knight_except_those_nasty = Кроме этих мерзких костяшек.
+forest2_03_thief_who_would_abandon = Кто бы покинул такие места... Здесь красиво.
+
+// NEW SCENE 
+forest2_04_knight_empty_its_not = Пусто! Здесь его нет!
+forest2_05_wizard_no_just_a = Что? Великий волшебник?..
+forest2_06_thief_wait_can_you = Минутку... Вы слышите?
+forest2_07_wizard_can_it_be = Неужели? Мог ли Великий Волшебник...
+forest2_08_narrator_light_brighter_than = Свет, ярче солнечного, ослепил наших героев. Картины случившегося промелькнули перед их глазами.
+
+
+
+// LOADING SCREEN – HEARTLAND MINES 
+loadingscreen_mines1_01_narrator_not_too_long = Не так давно землетрясение перевернуло пьедестал, уничтожив святилище, охранявшее артефакт тела и сущности. Заклятия, охранявшие третий артефакт, были уничтожены, а сам он был украден.
+loadingscreen_mines1_02_narrator_even_worse_it = Хуже того, он был объединен с артефактом разума и могущества. Без артефакта души и справедливости, сила артефактов стала нестабильной и дала жизнь существам из костей и праха, способным передвигаться, но лишенным души и разума.
+loadingscreen_mines1_03_narrator_the_trine_was = Трайн стал единственной вещью, способной вернуть миру равновесие.
+
+// GAMEPLAY STARTS 
+
+
+
+
+
+// LOADING SCREEN – BRIGHTSIDE VILLAGE 
+loadingscreen_village1_01_narrator_as_our_heroes = Взглянув на запад, наши герои увидели тьму. Там, где ранее ничего не было, теперь стояла темная башня, черная даже на фоне вечернего неба. Башня Зла.
+loadingscreen_village1_02_narrator_our_heroes_understood = Наши герои осознали, что необходимо сделать. Единственный способ спасти землю от разложения и уничтожить башню – собрать Трайн и остальные артефакты вместе. И чтобы они сработали, сердца героев должны быть беспорочны...
+loadingscreen_village1_03_narrator_despite_everpresent_danger = Несмотря на постоянно гнетущую угрозу, наши герои не могли не залюбоваться прекрасной деревушкой. Как могло нечто подобное выжить так близко к Башне Зла? К сожалению, никто не вышел им навстречу.
+
+// GAMEPLAY STARTS 
+village1_01_knight_a_village_we = Деревня! Мы должны спасти людей!
+village1_02_thief_they_are_not = Они ушли, здесь больше некого спасать...
+village1_03_knight_save_village_or = Спасти деревню или разбить костяшек, неважно! Я первый!
+
+// NEW SCENE 
+village1_04_wizard_the_smells_are = Запахи все поганее с каждым шагом... Мы, должно быть, уже близко к башне.
+
+
+
+// LOADING SCREEN – IRON FORGE 
+loadingscreen_castle5_01_narrator_our_heroes_broke = Наши герои пробились сквозь врата Башни Зла и вступили в кузницу, где нежить ковала свои доспехи и оружие. Взирающая на них свысока, Башня Зла выглядела огромной и угрожающей. Она была сердцем зла.
+
+// GAMEPLAY STARTS 
+castle5_01_thief_oh_this_is = Ох, и не нравится мне это...
+castle5_02_wizard_theyre_pumping_out = Они выкачивают внутреннюю энергию самой земли!
+castle5_03_knight_this_smell_reminds = Этот запах... Напоминает мне о ковке оружия! Ха! У меня лучшие железяки в мире!
+
+// NEW SCENE 
+castle5_04_thief_i_have_a = У меня дурное предчувствие...
+castle5_05_wizard_we_must_climb = Нам придется подняться в башню...
+
+
+// LOADING SCREEN – TOWER OF SAREK 
+loadingscreen_bossarea1_01_narrator_as_our_heroes = Пока наши герои поднимались по ступеням, ужасный холод пронизывал их до костей. Отзвуки кузницы постепенно затухали. Стало тихо. Слишком тихо. А потом они услышали голос...
+
+// GAMEPLAY STARTS 
+bossarea1_01_evilwizard_laugh = (злой хохот)
+bossarea1_02_thief_quickly_jump_to = Быстрее! Прыгаем наверх!
+bossarea1_03_wizard_we_must_get = Мы должны добраться до верха.
+bossarea1_04_wizard_ah_mighty_tricks_dont = Нет, фокусами нас не испугать!
+
+// NEW SCENE 
+bossarea1_05_knight_now_where_is = Вот где этот злодей! Ну держись!
+
+// NEW SCENE 
+bossarea1_06_evilwizard_scream1 = (пронзительные крики)
+bossarea1_07_wizard_we_can_reverse = Мы можем направить поток энергии обратно, но для этого нужно контролировать все артефакты! Помните об условиях, иначе ничего не выйдет!
+bossarea1_08_evilwizard_diescream1 = (крик злости)
+
+
+
+
+
+
+// OUTRO 
+outro_01_narrator_as_the_evil = Когда зло сгинуло, старый король, или то немногое, что осталось от его человеческой души, получил свободу.
+outro_02_narrator_the_artifacts_slowly = Артефакты понемногу восстановили равновесие в мире. Жизнь и ее радости вернулись в королевство.
+outro_03_narrator_in_the_spring = Весной был избран новый король.
+outro_04_narrator_the_new_king = Новый король предложил награды нашим героям. Рыцарь отказался стать капитаном королевской стражи. Вместо этого, он, наконец, оправдал ожидания своего отца и вплотную занялся своим призванием – едой и выпивкой. Он стал королевским поставщиком эля.
+outro_05_narrator_the_thief_was = Воровке были предложены богатства большие, чем её самые дерзкие желания, но она чувствовала непреодолимое стремление вернуться к лесным руинам. Король исполнил её желание, даровав ей власть над лесом. Жизнь там постепенно наладилась, вернувшись к былому великолепию.
+outro_06_narrator_as_for_the = Что касается волшебника... Он наконец-то понял, что дорога к успеху не имеет ничего общего с заклинанием огненного шара. Он не был уверен, в чем дело, но спасение королевства ему безусловно помогло.
+outro_07_narrator_a_few_years = После свадьбы с дамой по имени Маргарет и пары лет совместной жизни, у них родилась тройня. Просто волшебство какое-то, говорили люди.
+outro_08_narrator_we_also_do = Мы не знаем, чувствовал ли новоиспеченный отец гордость, стыд или все сразу, но каждый из его детей овладел заклинанием огненного шара еще на первом году жизни.
+outro_09_narrator_but_despite_everything = И несмотря ни на что... все они жили долго и счастливо.
+
+
+// LEVEL NAMES IN CAPS 
+levelname_tutorial1_alternative = ОБУЧЕНИЕ
+levelname_tutorial1 = АСТРАЛЬНАЯ АКАДЕМИЯ
+levelname_castle1 = ВНУТРЕННИЙ ДВОР АКАДЕМИИ
+levelname_courtyard1 = ЧЕРТНОГОСЛОМНЫЕ КАТАКОМБЫ
+levelname_cemetery1 = КЛАДБИЩЕ ДРАКОНОВ
+levelname_crypt1 = КРИСТАЛЬНЫЕ ПЕЩЕРЫ
+levelname_darkcrypt1 = СКЛЕП ПРОКЛЯТЫХ
+levelname_castle2 = ПОКИНУТЫЕ ПОДЗЕМЕЛЬЯ
+levelname_castle3 = ТРОН ПОГИБШЕГО КОРОЛЯ
+levelname_forest1 = ЗАГАДОЧНЫЙ ЛЕС
+levelname_darkforest1 = ТЕМНОТЕРНОВАЯ ЧАЩА
+levelname_forest2 = РАЗВАЛИНЫ ИСЧЕЗНУВШИХ
+levelname_mines1 = ЦЕНТРАЛЬНЫЕ ШАХТЫ
+levelname_village1 = ДЕРЕВНЯ ХОББИТОВКА
+levelname_castle5 = КУЗНИЦА
+levelname_castle6 = БАШНЯ САРЕКА
+
+// LEVEL NAMES IN LOWERCASE 
+levelname_tutorial1_alternative = Обучение
+levelname_tutorial1 = Астральная Академия
+levelname_castle1 = Внутренний двор Академии
+levelname_courtyard1 = Чертногосломные катакомбы
+levelname_cemetery1 = Кладбище драконов
+levelname_crypt1 = Кристальные пещеры
+levelname_darkcrypt1 = Склеп Проклятых
+levelname_castle2 = Покинутые подземелья
+levelname_castle3 = Трон погибшего короля
+levelname_forest1 = Загадочный лес
+levelname_darkforest1 = Темнотерновая чаща
+levelname_forest2 = Развалины Исчезнувших
+levelname_mines1 = Центральные шахты
+levelname_village1 = Деревня Хоббитовка
+levelname_castle5 = Кузница
+levelname_castle6 = Башня Сарека
+
+// ONELINERS AND ALTERNATIVES 
+
+// THIEF ONELINERS AND ALTERNATIVES 
+thief_oneliner_hey_i_see = Эй, я вижу что-то блестящее. Идите сюда.
+thief_oneliner_oh_maybe_next = Ну, может быть когда-нибудь.
+
+thief_oneliner_didnt_i_see = Разве я не видела как ты умер?..
+
+
+thief_oneliner_these_pipes_they = Эти трубы... Они должны куда-то вести.
+thief_oneliner_the_energy_flows = По этим трубам течет энергия...
+thief_oneliner_we_have_to = Нам нужно выбираться отсюда...
+thief_oneliner_theyre_not_flesh = Это не «кожа да кости», это... просто кости.
+
+thief_oneliner_forced_to_save = Вынуждены спасать королевство? Я вам не марионетка!
+thief_oneliner_you_fail_at = Волшебство - не твоя стихия.
+thief_oneliner_you_and_your = Ты и твои кривые руки...
+thief_oneliner_sigh = (вздох)
+
+thief_oneliner_get_your_greasy = Убери от меня свои лапы!
+thief_oneliner_this_is_our = Вот и наш вход.
+thief_oneliner_lets_find_a = Давайте найдем более необычный путь.
+thief_oneliner_some_kind_of = Здесь случилось какое-то странное колдунство...
+thief_oneliner_we_must_destroy = Мы должны уничтожить его!
+thief_oneliner_not_again = Опять эти...
+thief_oneliner_die = Умри!
+thief_oneliner_right = Ага.
+thief_oneliner_great = Отлично.
+thief_oneliner_thats_just_great = Ну просто замечательно.
+thief_oneliner_sometimes_less_is = Иногда лучше меньше, да лучше. Вот как сейчас, например.
+thief_oneliner_you_are_no = Да вы с моим луком и рядом не стояли
+thief_oneliner_so_what_are = И что ты теперь будешь делать...
+thief_oneliner_idea(noEN) = Есть идея...
+thief_oneliner_idea2(noEN) = Мне кажется, я знаю, что делать...
+
+
+// KNIGHT ONELINERS AND ALTERNATIVES 
+knight_oneliner_en_guard = Защищайся!
+knight_oneliner_bones = Кости...
+knight_oneliner_bones_just_bones = Кости... только кости. Жрать нечего.
+knight_oneliner_im_getting_hungry = Я от всех этих драк хочу кушать.
+knight_oneliner_aha_my_sword = Ага! Мой меч укажет нам дорогу! За мной!
+knight_oneliner_angry_bones_hah = Злые кости, ха!
+knight_oneliner_this_is_no = О, а это не кости!..
+knight_oneliner_those_bonesy_ones = Эти костлявые, должно быть, пришли отсюда. Я ударю в самое сердце и уничтожу их.
+
+knight_oneliner_what = Че?
+
+knight_oneliner_only_the_good = Эх, добряки умирают молодыми!
+knight_oneliner_i_have_nine = У меня девять жизней! Как у кошки!
+
+knight_oneliner_they_refuse_to = Они не хотят быть мертвыми?! Ну, я вам покажу!
+knight_oneliner_no_time_for = Некогда болтать, время рубиться!
+knight_oneliner_stay_down = Лежать!
+knight_oneliner_didnt_i_see = Я же точно видел как ты сдох!
+knight_oneliner_fear_not_i = Не надо бояться! Я поведу! Эх, побольше бы света...
+knight_oneliner_save_the_kingdom = Спасем королевство!
+knight_oneliner_for_the_kingdom = За королевство!
+knight_oneliner_i_shouldve_listened = Надо было слушать папу...
+knight_oneliner_hahaa_they_dont = Ха-ха, им не напугать меня!
+knight_oneliner_my_sword_and = Мой меч и я!
+knight_oneliner_bones_bones_wheres = Кости, кости... Где же мясо?!
+knight_oneliner_aarh_get_back = Ар-р! Убирайтесь откуда пришли!
+knight_oneliner_all_this_jumping = Прыгать туда-сюда – не дело для взрослых людей... Я бы отдохнул.
+knight_oneliner_go_back_where = Убирайтесь откуда пришли!
+knight_oneliner_what_are_these = Что же это за артефакты...
+knight_oneliner_the_artifacts_cannot = Артефакты не могут убивать врагов.
+knight_oneliner_it_feels_good = Как же приятно скушать что-нибудь
+knight_oneliner_ohhh_this_doesnt = Ооо... нехорошо, нехорошо.
+knight_oneliner_i_can_take = Я возьму артефакт разума и могущества.
+knight_oneliner_oh_look_a = Смотрите-ка, водяное колесо.
+knight_oneliner_big_bad_skeleton = Большой гадкий скелет!
+knight_oneliner_big_bad_undead = Большой гадкий мертвец!
+knight_oneliner_big_bad_bones = Большие гадкие кости!
+knight_oneliner_haha_mighty_bones = Ха-ха, могучие кости! А ну лежать!
+knight_oneliner_i_can_carry = Я могу таскать булыжники!
+knight_oneliner_i_can_move = Я могу передвинуть вещь!
+knight_oneliner_different_kind_of = Разные кости!
+knight_oneliner_this_is_no_good = Плохо, что артефакты не могут убивать врагов
+knight_oneliner_this_smell_hah = Ох уж этот запах! Я сокрушу их всех своим мечом!
+knight_oneliner_king_of_the_castle = Ха-ха, не бойтесь, со мной мой меч и мой плащ! Я сокрушу всех врагов и приведу нашу армию к победе! Мы непобедимы!
+knight_oneliner_all_this_menace = Вся эта опасность, все эти усилия, ха! Пусть попытаются, но у меня есть оружие, которое сокрушит их всех!
+knight_oneliner_idea(noEN) = Есть, типа, идея...
+knight_oneliner_idea2(noEN) = Мне кажется, я знаю, че делать...
+
+
+// WIZARD ONELINERS AND ALTERNATIVES 
+wizard_oneliner_i_can_keep = Я бы составил компанию нашей пленнице
+wizard_oneliner_i_can_give = Могу составить компанию нашей пленнице
+wizard_oneliner_sweetheart = Дорогая...
+wizard_oneliner_hah_if_it = Хе, если бы все было так просто...
+wizard_oneliner_oh_i_dont = Мне это совсем не нравится. Во что вы меня втянули!
+wizard_oneliner_no_we_must = Нет, мы должны убираться отсюда! Неужели ты не видишь, что здесь больше нет короля, мы сами по себе!
+wizard_oneliner_oh_thats_just = О, просто отлично.
+wizard_oneliner_they_are_not = Им нет места в нашем мире...
+wizard_oneliner_lets_do_some = А теперь немного особой магии!..
+wizard_oneliner_dont_worry_she = Не бойся, она не сбежит.
+
+wizard_oneliner_snoring = (храп)
+wizard_oneliner_oh_that_looks = О... Тебе очень идет...
+wizard_oneliner_we_must_place = Мы должны разместить артефакты в правильных местах!
+wizard_oneliner_its_working = Работает!
+wizard_oneliner_one_more = Еще один!
+wizard_oneliner_thats_it = Вот так!
+wizard_oneliner_remember_our_hearts = Помните, наши помыслы должны быть чисты.
+wizard_oneliner_hmm_interesting_noEN = Хмм... Интересно...
+wizard_oneliner_idea(noEN) = Есть идея...
+wizard_oneliner_idea2(noEN) = Мне кажется, я знаю, что делать...
+
+
+// NARRATOR ONELINERS AND ALTERNATIVES 
+narrator_alternative_once_upon_a = Давным-давно в далеких-предалеких землях стояло королевство, жившее в гармонии.
+narrator_alternative_the_kingdom_was = В королевство пришла беда.
+narrator_alternative_there_was_hope = Но для наших героев еще была надежда
+narrator_alternative_the_knight_dreamed = Рыцарь мечтал о большом плаще.
+
+narrator_alternative_the_thief_couldnt = Воровка не могла устоять перед искушением
+
+narrator_alternative_hope_was_nowhere = Надежде (удар) было неоткуда взяться
+
+narrator_alternative_a_war_between = Война добра со злом началась.
+narrator_alternative_it_was_as = Как будто Трайн обладал собственной волей, как будто что-то его направляло...
+
+
+narrator_alternative_to_make_matters = Как на беду, все три наших искателя удачи слышали приближающиеся шаги.
+narrator_alternative_they_would_soon = Вскоре им придется встретиться лицом к лицу с ужасной армией нежити.
+narrator_alternative_the_castle_grounds = Земли замка закончились, и начались глубокие пещеры.
+narrator_alternative_and_the_wizard = Что до волшебника, он вовсе не возражал против компании, ухитрявшейся терпеть его больше часа.
+narrator_alternative_but_peace_could = Но спокойная жизнь не могла длиться вечно.
+narrator_alternative_at_the_other = На другой стороне Академии рыцарь оттачивал свои боевые навыки. Между нами, он не вполне понимал значения слова «нежить», зато это был его шанс стать храбрейшим из воинов и заслужить, наконец, место в королевской армии. Или, по крайней мере, попытаться.
+narrator_alternative_the_thief_remained = Воровка молчала. Она выжидала удобного момента, чтобы удрать. В идеале – с сокровищем и без парочки идиотов. Древняя магия, вроде этой, стоила больше целого королевства. Но сейчас у неё не было иного выбора, кроме как смириться со своим положением. Она знала, что вскоре им предстоит встретить ужасную армию нежити, наводнившую Астральную Академию и ее двор. Сокровище представляло небольшую ценность, если она не могла его забрать.
+narrator_alternative_at_that_moment = В этот самый момент, когда вся надежда казалась уже потерянной, случилось нечто удивительное.
+narrator_alternative_but_the_wizard = Но волшебник так и не выучил заклинание огненного шара.
+narrator_alternative_everything_was_perfect = Для воровки все шло как по маслу. Она добралась до замка и вскоре столь желанный древний предмет окажется в её руках.
+narrator_alternative_the_wizard_touched = Волшебник дотронулся до руки воровки, затем до предмета. Его рука прилипла.
+narrator_alternative_was_it_the = Была ли это нежить?
+narrator_alternative_the_wizard_lay = Волшебник положил руку на предмет.
+
+narrator_alternative_the_undead_were = Нежить приближалась...
+narrator_alternative_i_wonder_what = Эй, за стеклом, ты заснул что ли?
+narrator_alternative_hmms = Хмм...
+narrator_alternative_the_wizard_idea(noEN) = У волшебника есть идея...
+narrator_alternative_the_wizard_idea2(noEN) = Мне кажется, волшебник знает, что делать...
+narrator_alternative_the_thief_idea(noEN) = У воровки есть идея...
+narrator_alternative_the_thief_idea2(noEN) = Мне кажется, воровка знает, что делать...
+narrator_alternative_the_knight_idea(noEN) = У рыцаря есть идея...
+narrator_alternative_the_knight_idea2(noEN) = Мне кажется, рыцарь знает, что делать...
+
+
+
+// EVIL WIZARD ONELINERS AND ALTERNATIVES 
+evilwizard_oneliner_die = Умри!
+evilwizard_oneliner_you_cannot_take = Вы не сможете отобрать у меня то, что по праву мое!
+
+
+
+
+// VARIOUS CONVERSATION SNIPPETS 
+
+misc_conversation01_01_thief_what_a_dull = Какое тупое лезвие...
+misc_conversation01_02_knight_what_my_blade = Что? Мое лезвие не тупое! Оно острее ножа!
+
+misc_conversation02_01_thief_so_amadeus_you = Итак... Амадей, ты учился в Астральной Академии? Разве это не школа для девчонок, учащихся гадать по звездам?
+misc_conversation02_02_wizard_what_where_did = Что?! Да где ты набралась таких слухов... Это уважаемая школа магии!
+
+misc_conversation03_01_thief_why_did_you = Почему ты остался? Неужели не хотелось убраться отсюда?
+misc_conversation03_02_knight_oh_i_know = Я знаю, я знаю! Он делал зелье для дам, но оно взорвалось.
+misc_conversation03_03_wizard_no_i_was = Нет! Я практиковался в заклинании огненного шара!
+
+misc_conversation04_01_wizard_you_have_brought = Ты навлекла на нас ужасное проклятье!
+misc_conversation04_02_wizard_on_the_other = С другой стороны, это может оказаться интересно...
+
+misc_conversation05_01_wizard_pontius_are_you = Понтий, ты действительно из королевской армии?
+misc_conversation05_02_knight_yes_i_am = Да. Я рыцарь в королевской армии.
+misc_conversation05_03_wizard_i_dont_remember = Что-то я не видел тебя в рыцарской столовой...
+misc_conversation05_04_knight_i_am_a = Я рыцарь в королевской армии!
+misc_conversation05_05_wizard_fine_calm_down = Ладно-ладно, успокойся...
+
+misc_conversation06_01_wizard_we_are_all = Мы все связаны Трайном, можно не бояться, что она нас бросит.
+misc_conversation06_02_knight_but_shes_a = Но она же женщина! Поле боя – не место для женщины!
+misc_conversation06_03_thief_oh_shut_up = Ой, заткнись. Я – сама сестра опасности.
+misc_conversation06_04_knight_grunts = (ворчит)
+
+misc_conversation07_01_knight_oh_this_is = Это неправильно. Мы здесь не для того, чтобы грабить бедное королевство...
+misc_conversation07_02_thief_ha_if_you = Ха! Если бы ты только знал...
+misc_conversation07_03_wizard_save_it_for = Приберегите ссоры на потом, вы двое! Я слышу, как они приближаются...
+
+misc_conversation08_01_thief_where_are_we = Где мы?..
+misc_conversation08_02_wizard_we_are_beneath = Мы под Астральной Академией. Здесь десятилетиями не ступала нога человека.
+
+misc_conversation09_01_wizard_we_must_get = Мы должны добраться туда как можно быстрее!
+misc_conversation09_02_thief_will_it_be = А там ты помолчишь?
+
+
+
+// EMOTIONS 

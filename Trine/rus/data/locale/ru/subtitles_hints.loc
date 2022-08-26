@@ -1,0 +1,192 @@
+﻿
+
+
+// preview stuff:
+trine_preview_build_notice = Предварительная версия – не отражает итоговое качество
+
+
+// subtitles_characters.loc
+hint_press_to_change_character
+{
+Нажимайте 1, 2, 3 для смены персонажа.
+Мертвые персонажи будут воскрешены на контрольной точке.
+}
+
+hint_press_to_change_character_resurrect_item
+{
+Нажимайте 1, 2, 3 для смены персонажа.
+Мертвые персонажи будут воскрешены на контрольной точке.
+_________________________
+** У вас есть cтразик воскрешения. Он способен воскресить умершего персонажа, владеющего им.
+}
+
+grab_out_of_mana = Недостаточно энергии, чтобы схватить предмет!
+grab_out_of_mana2 = Недостаточно энергии, чтобы левитировать предмет!
+
+
+// subtitles_hint_items.loc
+//hint_item_shield_wood_pickup = Подобран деревянный щит
+
+picked_up_arrows = Подобрано 5 стрел
+picked_up_quiver = Подобран колчан с 15 стрелами
+
+picked_up_health = Подобрано здоровье
+picked_up_large_health = Подобрано много здоровья
+
+picked_up_energy = Подобран пузырек энергии
+picked_up_large_energy = Подобран большой пузырек энергии
+
+picked_up_energy_potion = Подобран большой пузырек энергии
+picked_up_full_energy_potion = Подобран пузырек полной энергии
+
+picked_up_health_potion = Подобрано зелье здоровья
+picked_up_full_health_potion = Подобрано зелье полного здоровья
+
+picked_up_experience_shard = Подобран пузырек опыта
+
+//hint_item_arrow_full = Нельзя хранить большее количество стрел
+
+
+hint_item_poison_pickup = Найдена «БУТЫЛКА ЯДА»
+hint_item_amulet_e_pickup = Найден «АМУЛЕТ РОСТА ЭНЕРГИИ»
+hint_item_amulet_s_pickup = Найден «АМУЛЕТ САМОПОЖЕРТВОВАНИЯ»
+hint_item_sh_silver_pickup = Найден «СЕРЕБРЯНЫЙ ЩИТ»
+hint_item_boots_pickup = Найдены «БОТИНКИ»
+hint_item_torch_pickup = Найден «ФАКЕЛ»
+hint_item_crystal_e_pickup = Найден «ЗАЧАРОВАННЫЙ КРИСТАЛЛ ЭНЕРГИИ»
+hint_item_crystal_h_pickup = Найден «ЗАЧАРОВАННЫЙ КРИСТАЛЛ ЗДОРОВЬЯ»
+hint_item_ring_pickup = Найдено «КОЛЬЦО ЗАКЛИНАТЕЛЯ»
+hint_item_amulet_f_pickup = Найден «АМУЛЕТ СТОЙКОСТИ»
+hint_item_leggings_pickup = Найдены «ГАМАШИ»
+hint_item_bracers_pickup = Найдены «НАРУЧИ»
+hint_item_vial_h_pickup = Найден «ПУЗЫРЕК ЗДОРОВЬЯ»
+hint_item_vial_e_pickup = Найден «ПУЗЫРЕК ЭНЕРГИИ»
+hint_item_statue_pickup = Найдена «СТАТУЭТКА ОРЛА»
+hint_item_prism_pickup = Найдена «ПРИЗМА СВЕТА»
+hint_item_necklace_p_pickup = Найдено «ОЖЕРЕЛЬЕ МОГУЩЕСТВА»
+hint_item_sack_pickup = Найден «МЕШОК С ДОБЫЧЕЙ»
+hint_item_orb_pickup = Найден «ШАР ЭНЕРГИИ»
+hint_item_necklace_l_pickup = Найдено «ОЖЕРЕЛЬЕ ЖИЗНИ»
+hint_item_fish_pickup = Найдена «РЫБЬЯ ЧЕШУЯ»
+hint_item_blue_gem_pickup = Найден «СИНИЙ ВОЛШЕБНЫЙ КАМЕНЬ»
+hint_item_red_gem_pickup = Найден «КРАСНЫЙ ВОЛШЕБНЫЙ КАМЕНЬ»
+hint_item_yellow_gem_pickup = Найден «ЖЕЛТЫЙ ВОЛШЕБНЫЙ КАМЕНЬ»
+hint_item_resur_gem_pickup = Найден «СТРАЗИК ВОСКРЕШЕНИЯ»
+hint_item_sta_create_pickup = Найдено «СОЗДАНИЕ ПОСОХА» для волшебника.
+hint_item_wiz_box_pickup = Найдено «ЗАКЛИНАНИЕ ЯЩИКА» для волшебника.
+hint_item_wiz_plank_pickup = Найдено «ЗАКЛИНАНИЕ ДОСКИ» для волшебника.
+hint_item_wiz_barrel_pickup = Найдено «ЗАКЛИНАНИЕ ПЛАТФОРМЫ» для волшебника.
+hint_item_bow_short_pickup = Найден «ОБЫЧНЫЙ ЛУК» для воровки.
+hint_item_bow_fire_pickup = Найден «ОГНЕННЫЙ ЛУК» для воровки.
+hint_item_bow_rope_pickup = Найден «КРЮК» для воровки.
+hint_item_nin_time_pickup = Найден «НАВЫК ЗАМЕДЛЕНИЯ ВРЕМЕНИ» для воровки.
+hint_item_swo_short_pickup = Найден «ОБЫЧНЫЙ МЕЧ» для рыцаря.
+hint_item_swo_fire_pickup = Найден «ПЛАМЕННЫЙ МЕЧ» для рыцаря.
+hint_item_swo_hammer_pickup = Найден «ГРОЗОВОЙ МОЛОТ» для рыцаря.
+hint_item_war_throw_pickup = Найден «СИЛА ТИТАНОВ» для рыцаря.
+
+
+// tutorial hints
+tutorial1_move = Идите вперед, перепрыгивая препятствия
+tutorial1_arrows = Используйте крюк
+tutorial1_shield = Блокируйте удары щитом
+tutorial1_create_box = Нарисуйте курсором квадрат
+tutorial1_sword = Ударьте мечом
+tutorial1_levitate = Наведите курсор на предмет
+tutorial1_levitate2 = Левитируйте предмет
+tutorial1_chest = Открыть сундук
+
+castle1_change_character = Сменить персонажа
+castle1_inventory = Применить навык в окне рюкзака
+
+
+respawns_left_0 = Осталось 0 возрождений
+respawns_left_1 = Осталось 1 возрождение
+respawns_left_2 = Осталось 2 возрождения
+respawns_left_3 = Осталось 3 возрождения
+respawns_left_4 = Осталось 4 возрождения
+
+
+// misc
+misc_hint_tip = Совет:
+misc_hint_hint = Подсказка:
+
+misc_hint_the_wizard = Волшебник может оказаться полезным...
+misc_hint_the_thief = Воровка может оказаться полезной...
+misc_hint_the_knight = Рыцарь может оказаться полезным...
+
+misc_required_points = Требуется очков
+misc_required_points2 = Требования по очкам
+misc_cost = Цена
+misc_cost2 = Цена улучшения
+
+misc_cost_points1 = 1 очко
+misc_cost_points2 = 2 очка
+misc_cost_points3 = 3 очка
+
+
+// for upgrade levels
+misc_level1 = Уровень 1
+misc_level2 = Уровень 2
+misc_level3 = Уровень 3
+misc_level4 = Уровень 4
+misc_level = Максимальный уровень
+misc_level_max = Максимальный уровень достигнут
+
+misc_outofenergy = Энергия закончилась!
+misc_checkpoint = Контрольная точка
+
+misc_level_current = Текущий уровень:
+misc_level_next = Следующий уровень:
+misc_secondary_attack = Альтернативная атака
+misc_energy_required = Требуется энергии
+misc_requires_energy = Требует энергии
+
+misc_wizard_upgradesfull_alternative = Волшебник овладел заклинанием Парящей платформы. Хоть раз в жизни должно получиться, верно? Может, на очереди Огненный шар?! Подумать только!.. Девчонки в Астральной академии ни за что не поверят.
+
+unlock_challenge = Режим вызова разблокирован.
+unlock_challenge_wizard = Вызов волшебнику разблокирован.
+unlock_challenge_thief = Вызов воровке разблокирован.
+unlock_challenge_knight = Вызов рыцарю разблокирован.
+
+
+// level hints
+levelhint_tutorial1 = Найти магический предмет
+levelhint_castle1 = Найти гробницу Стража в катакомбах
+levelhint_courtyard1 = Найти гробницу Стража в катакомбах
+levelhint_cemetery1 = Начать долгий путь к замку и второму артефакту через Кладбище драконов.
+levelhint_crypt1 = Продолжить путь к замку и второму артефакту
+levelhint_darkcrypt1 = Продолжить путь к замку и второму артефакту
+levelhint_castle2 = Найти путь в замок
+levelhint_castle3 = Найти второй артефакт
+levelhint_forest1 = Последовать по следам старого короля и углубиться в лес
+levelhint_darkforest1 = Пробраться через лес
+levelhint_forest2 = Пробраться к вершине развалин и найти третий артефакт
+levelhint_mines1 = Пробраться в шахты
+levelhint_village1 = Пройти через заброшенную деревню и направиться к Башне Зла.
+levelhint_castle5 = Найти способ поразить сердце зла
+levelhint_bossarea = Победить зло
+
+misc_thief_rope_hint = Крюк можно закрепить только на деревянных поверхностях.
+misc_thief_rope_hint2 = Зацепите крюк за деревянную поверхность.
+
+
+// other misc
+misc_wizard_spell_box = Заклинание ящика
+misc_wizard_spell_plank = Заклинание доски
+misc_wizard_spell_floatingplatform = Заклинание парящей платформы
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
